@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 161,
+    "odu_name": "Ika Ogbe",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "01000000",
+    "meaning": "Beginnings marked by complexity and deep insight.",
+    "signature_marks": [
+      "I II I I",
+      "I I I I"
+    ],
+    "proverbs": [
+      "The wise navigate the tangled forest with steady feet.",
+      "New beginnings often carry hidden depths."
+    ],
+    "verses": [
+      "[translate:Ika Meji] teaches the power of wisdom to navigate complex new paths.",
+      "Let your insight be your guide through the unknown."
+    ]
+  },
+  {
+    "odu_id": 162,
+    "odu_name": "Ika Oyeku",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "01001111",
+    "meaning": "Embracing mystery and hidden knowledge.",
+    "signature_marks": [
+      "I II I I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "In darkness, the heart learns new songs.",
+      "Mysteries reveal themselves only to the patient."
+    ],
+    "verses": [
+      "[translate:Ika Meji] reveals the strength found in embracing the unknown.",
+      "Trust the journey even when the path is unseen."
+    ]
+  },
+  {
+    "odu_id": 163,
+    "odu_name": "Ika Iwori",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Iwori",
+    "binary_code": "01010001",
+    "meaning": "Transformation through intellectual clarity.",
+    "signature_marks": [
+      "I II I I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Clear thought reigns over confusion.",
+      "Wisdom burns away the shadow of doubt."
+    ],
+    "verses": [
+      "[translate:Ika Meji] illuminates the power of mind in transformation.",
+      "Let understanding light your inner fire."
+    ]
+  },
+  {
+    "odu_id": 164,
+    "odu_name": "Ika Odi",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Odi",
+    "binary_code": "01010110",
+    "meaning": "Boundaries and protection in the journey of growth.",
+    "signature_marks": [
+      "I II I I",
+      "I I II I"
+    ],
+    "proverbs": [
+      "A guarded spirit preserves its strength.",
+      "Strong walls deflect the harshest winds."
+    ],
+    "verses": [
+      "[translate:Ika Meji] advises balance between openness and caution.",
+      "Build your defenses as you grow."
+    ]
+  },
+  {
+    "odu_id": 165,
+    "odu_name": "Ika Irosun",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Irosun",
+    "binary_code": "01011000",
+    "meaning": "Healing through reflection and ancestral guidance.",
+    "signature_marks": [
+      "I II I I",
+      "I II II II"
+    ],
+    "proverbs": [
+      "The past nourishes the present.",
+      "Healing waters flow from deep roots."
+    ],
+    "verses": [
+      "[translate:Ika Meji] brings hope through connection to ancestors.",
+      "Let the lessons of old guide your healing."
+    ]
+  },
+  {
+    "odu_id": 166,
+    "odu_name": "Ika Owonrin",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "01011101",
+    "meaning": "Adaptability and sudden insights.",
+    "signature_marks": [
+      "I II I I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "The sudden storm refreshes the earth.",
+      "Flexibility is survival’s greatest tool."
+    ],
+    "verses": [
+      "[translate:Ika Meji] encourages openness to change and sudden wisdom.",
+      "Welcome the unexpected with grace."
+    ]
+  },
+  {
+    "odu_id": 167,
+    "odu_name": "Ika Obara",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Obara",
+    "binary_code": "01011110",
+    "meaning": "Powerful words and spirited action.",
+    "signature_marks": [
+      "I II I I",
+      "II I I I"
+    ],
+    "proverbs": [
+      "Words forge destiny as metal on an anvil.",
+      "Bold actions follow clear speech."
+    ],
+    "verses": [
+      "[translate:Ika Meji] highlights the spiritual power of language.",
+      "Use your voice to shape your world."
+    ]
+  },
+  {
+    "odu_id": 168,
+    "odu_name": "Ika Okanran",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Okanran",
+    "binary_code": "01011111",
+    "meaning": "Challenges that spark inner strength.",
+    "signature_marks": [
+      "I II I I",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Adversity tempers the strongest steel.",
+      "Strength grows from challenge’s fire."
+    ],
+    "verses": [
+      "[translate:Ika Meji] calls for courage in the face of trials.",
+      "Rise stronger from every downfall."
+    ]
+  },
+  {
+    "odu_id": 169,
+    "odu_name": "Ika Ogunda",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "01100001",
+    "meaning": "Strategic power in overcoming obstacles.",
+    "signature_marks": [
+      "I II I I",
+      "I I II II"
+    ],
+    "proverbs": [
+      "Clever hands break the hardest chains.",
+      "Strategy triumphs where strength alone fails."
+    ],
+    "verses": [
+      "[translate:Ika Meji] advises combining wisdom with power.",
+      "Plan well to conquer difficulties."
+    ]
+  },
+  {
+    "odu_id": 170,
+    "odu_name": "Ika Osa",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Osa",
+    "binary_code": "01100011",
+    "meaning": "Wisdom in the face of hidden danger.",
+    "signature_marks": [
+      "I II I I",
+      "II I II I"
+    ],
+    "proverbs": [
+      "The cautious mind sees the trap before stepping.",
+      "Awareness keeps the spirit safe."
+    ],
+    "verses": [
+      "[translate:Ika Meji] demands vigilance against unseen threats.",
+      "Be watchful; protect your soul."
+    ]
+  },
+  {
+    "odu_id": 171,
+    "odu_name": "Ika Ika",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Ika",
+    "binary_code": "01100100",
+    "meaning": "Self-mastery and resilience.",
+    "signature_marks": [
+      "I II I I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Mastery of self is mastery of the world.",
+      "Resilience builds immortality."
+    ],
+    "verses": [
+      "[translate:Ika Meji] speaks of the transformational power of self-control.",
+      "Be your own greatest strength."
+    ]
+  },
+  {
+    "odu_id": 172,
+    "odu_name": "Ika Oturupón",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "01101001",
+    "meaning": "Rebirth through endurance and spiritual renewal.",
+    "signature_marks": [
+      "I II I I",
+      "II II I I"
+    ],
+    "proverbs": [
+      "The phoenix rises from ashes stronger.",
+      "Renewal is the spirit’s endless song."
+    ],
+    "verses": [
+      "[translate:Ika Meji] promises spiritual rebirth and ongoing growth.",
+      "Endure to embrace new life."
+    ]
+  },
+  {
+    "odu_id": 173,
+    "odu_name": "Ika Otura",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Otura",
+    "binary_code": "01101011",
+    "meaning": "Spiritual healing and guidance.",
+    "signature_marks": [
+      "I II I I",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Healing guides the weary traveler.",
+      "Spirit’s light dispels the darkest night."
+    ],
+    "verses": [
+      "[translate:Ika Meji] nurtures the spirit’s road to wholeness.",
+      "Seek guidance to find peace."
+    ]
+  },
+  {
+    "odu_id": 174,
+    "odu_name": "Ika Irete",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Irete",
+    "binary_code": "01101100",
+    "meaning": "Balance of material and spiritual prosperity.",
+    "signature_marks": [
+      "I II I I",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Prosperity is strong where spirit is rich.",
+      "Balance nurtures lasting abundance."
+    ],
+    "verses": [
+      "[translate:Ika Meji] blends attainment with spiritual foundations.",
+      "Prosper wisely, for spirit guides wealth."
+    ]
+  },
+  {
+    "odu_id": 175,
+    "odu_name": "Ika Ose",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Ose",
+    "binary_code": "01101110",
+    "meaning": "Healing and cleansing for spiritual renewal.",
+    "signature_marks": [
+      "I II I I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Let the rain cleanse the earth anew.",
+      "Healing fuels growth beyond wounds."
+    ],
+    "verses": [
+      "[translate:Ika Meji] emphasizes the power of purification for renewal.",
+      "Cleanse your spirit to embrace transformation."
+    ]
+  },
+  {
+    "odu_id": 176,
+    "odu_name": "Ika Ofun",
+    "parent_odu_1": "Ika",
+    "parent_odu_2": "Ofun",
+    "binary_code": "01101111",
+    "meaning": "Clarity achieved through disciplined spiritual practice.",
+    "signature_marks": [
+      "I II I I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clear mind, strong spirit, sure path.",
+      "Discipline opens the door to destiny."
+    ],
+    "verses": [
+      "[translate:Ika Meji] crowns the journey of insight and steadfastness.",
+      "Walk the clear path, and your destiny shines bright."
+    ]
+  }
+]

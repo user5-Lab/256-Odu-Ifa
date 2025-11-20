@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 209,
+    "odu_name": "Irete Ogbe",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "01000000",
+    "meaning": "Determined new beginnings with strong spiritual foundation.",
+    "signature_marks": [
+      "II I I II",
+      "I I I I"
+    ],
+    "proverbs": [
+      "New roots grow firm in fertile ground.",
+      "Determination is the seed of success."
+    ],
+    "verses": [
+      "[translate:Irete Meji] emphasizes steadfastness and clarity in starting anew.",
+      "Let your spirit move with purpose and discipline."
+    ]
+  },
+  {
+    "odu_id": 210,
+    "odu_name": "Irete Oyeku",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "01001111",
+    "meaning": "Spiritual patience and insight in facing the unknown.",
+    "signature_marks": [
+      "II I I II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Patience nourishes the deepest roots.",
+      "In mystery, clarity is hidden."
+    ],
+    "verses": [
+      "[translate:Irete Meji] teaches that endurance reveals spiritual truths.",
+      "Walk gently in the valley of shadows."
+    ]
+  },
+  {
+    "odu_id": 211,
+    "odu_name": "Irete Iwori",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Iwori",
+    "binary_code": "01010001",
+    "meaning": "Insight and reflection leading to transformative growth.",
+    "signature_marks": [
+      "II I I II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Wisdom is the light on the path of change.",
+      "Reflection fuels the flame of growth."
+    ],
+    "verses": [
+      "[translate:Irete Meji] encourages contemplation and learning from circumstances.",
+      "Let your soul be guided by understanding."
+    ]
+  },
+  {
+    "odu_id": 212,
+    "odu_name": "Irete Odi",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Odi",
+    "binary_code": "01010110",
+    "meaning": "Protection and caution supporting spiritual progress.",
+    "signature_marks": [
+      "II I I II",
+      "I I II I"
+    ],
+    "proverbs": [
+      "A watchful eye prevents many falls.",
+      "Guard your path with wise boundaries."
+    ],
+    "verses": [
+      "[translate:Irete Meji] counsels to guard progress with discernment.",
+      "Set firm limits to protect your gains."
+    ]
+  },
+  {
+    "odu_id": 213,
+    "odu_name": "Irete Irosun",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Irosun",
+    "binary_code": "01011000",
+    "meaning": "Healing and renewal through ancestral wisdom.",
+    "signature_marks": [
+      "II I I II",
+      "I II II II"
+    ],
+    "proverbs": [
+      "The roots of the past nurture the blossoms of today.",
+      "Healing is inheritance of the wise."
+    ],
+    "verses": [
+      "[translate:Irete Meji] highlights the power of ancestral guidance in renewal.",
+      "Honoring roots fuels your spirit’s restoration."
+    ]
+  },
+  {
+    "odu_id": 214,
+    "odu_name": "Irete Owonrin",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "01011101",
+    "meaning": "Flexible perseverance amidst change.",
+    "signature_marks": [
+      "II I I II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Flexibility sustains the steady tree.",
+      "The river carves new paths by persistence."
+    ],
+    "verses": [
+      "[translate:Irete Meji] teaches adaptability as an essential virtue.",
+      "Flow with the spirit and outlast the storm."
+    ]
+  },
+  {
+    "odu_id": 215,
+    "odu_name": "Irete Obara",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Obara",
+    "binary_code": "01011110",
+    "meaning": "Vigorous action guided by spiritual ethics.",
+    "signature_marks": [
+      "II I I II",
+      "II I I I"
+    ],
+    "proverbs": [
+      "Power must be tempered with wisdom.",
+      "Spirit guides the hand of the bold."
+    ],
+    "verses": [
+      "[translate:Irete Meji] urges the harmonizing of strength and morality.",
+      "Act with courage, but abide by the spirit’s law."
+    ]
+  },
+  {
+    "odu_id": 216,
+    "odu_name": "Irete Okanran",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Okanran",
+    "binary_code": "01011111",
+    "meaning": "Strength through challenges and humbling experience.",
+    "signature_marks": [
+      "II I I II",
+      "II II II I"
+    ],
+    "proverbs": [
+      "The mountain grows firm through storms.",
+      "Humility strengthens the powerful."
+    ],
+    "verses": [
+      "[translate:Irete Meji] teaches resilience and grace in adversity.",
+      "Let hardship refine your spirit."
+    ]
+  },
+  {
+    "odu_id": 217,
+    "odu_name": "Irete Ogunda",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "01100001",
+    "meaning": "Breaking barriers with wise strength.",
+    "signature_marks": [
+      "II I I II",
+      "I I II II"
+    ],
+    "proverbs": [
+      "Strength coupled with wisdom breaks the hardest chains.",
+      "Clever hands carve the clearest path."
+    ],
+    "verses": [
+      "[translate:Irete Meji] encourages wisdom-led power to overcome obstacles.",
+      "Strength resides in thoughtful action."
+    ]
+  },
+  {
+    "odu_id": 218,
+    "odu_name": "Irete Osa",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Osa",
+    "binary_code": "01100011",
+    "meaning": "Navigating unseen challenges with insight.",
+    "signature_marks": [
+      "II I I II",
+      "II I II I"
+    ],
+    "proverbs": [
+      "The cautious walk avoids hidden traps.",
+      "Insight reveals what eyes cannot see."
+    ],
+    "verses": [
+      "[translate:Irete Meji] urges spiritual vigilance and deeper perception.",
+      "See beyond the veil to ensure safe passage."
+    ]
+  },
+  {
+    "odu_id": 219,
+    "odu_name": "Irete Ika",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Ika",
+    "binary_code": "01100100",
+    "meaning": "Self-discipline ensuring enduring success.",
+    "signature_marks": [
+      "II I I II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline is the root of all achievement.",
+      "He who masters himself conquers all."
+    ],
+    "verses": [
+      "[translate:Irete Meji] praises control and mastery as pillars.",
+      "Build your legacy on the bedrock of discipline."
+    ]
+  },
+  {
+    "odu_id": 220,
+    "odu_name": "Irete Oturupón",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "01101001",
+    "meaning": "Endurance through cycles and spiritual renewal.",
+    "signature_marks": [
+      "II I I II",
+      "II II I I"
+    ],
+    "proverbs": [
+      "The earth renews itself endlessly.",
+      "Cycles bring fresh strength and hope."
+    ],
+    "verses": [
+      "[translate:Irete Meji] calls for accepting change as part of life’s design.",
+      "Rebirth follows every ending."
+    ]
+  },
+  {
+    "odu_id": 221,
+    "odu_name": "Irete Otura",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Otura",
+    "binary_code": "01101011",
+    "meaning": "Healing and spiritual awakening through clarity.",
+    "signature_marks": [
+      "II I I II",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Healing opens the eye of the soul.",
+      "Awakening is the dawn of peace."
+    ],
+    "verses": [
+      "[translate:Irete Meji] nurtures healing and enlightenment.",
+      "Walk the path of spiritual clarity."
+    ]
+  },
+  {
+    "odu_id": 222,
+    "odu_name": "Irete Irete",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Irete",
+    "binary_code": "01101100",
+    "meaning": "Complete balance of spiritual and material prosperity.",
+    "signature_marks": [
+      "II I I II",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Balance sustains wealth and wisdom.",
+      "Harmony is the key to enduring fortune."
+    ],
+    "verses": [
+      "[translate:Irete Meji] embodies the harmony of life’s blessings.",
+      "May your journey be rich in both spirit and substance."
+    ]
+  },
+  {
+    "odu_id": 223,
+    "odu_name": "Irete Ose",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Ose",
+    "binary_code": "01101110",
+    "meaning": "Spiritual cleansing and renewal.",
+    "signature_marks": [
+      "II I I II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Cleansing clears the path to growth.",
+      "Renewal is born of pure spirit."
+    ],
+    "verses": [
+      "[translate:Irete Meji] advocates for purification as a step to transformation.",
+      "Let go of old burdens to rise anew."
+    ]
+  },
+  {
+    "odu_id": 224,
+    "odu_name": "Irete Ofun",
+    "parent_odu_1": "Irete",
+    "parent_odu_2": "Ofun",
+    "binary_code": "01101111",
+    "meaning": "Fulfillment and clarity through enlightened perseverance.",
+    "signature_marks": [
+      "II I I II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clarity guides to fulfilled destiny.",
+      "Patience and insight bring success."
+    ],
+    "verses": [
+      "[translate:Irete Meji] crowns the spiritual journey with wisdom and achievement.",
+      "Walk boldly with enlightened purpose."
+    ]
+  }
+]

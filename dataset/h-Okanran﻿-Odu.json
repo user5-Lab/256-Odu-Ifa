@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 113,
+    "odu_name": "Okanran Ogbe",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "10000000",
+    "meaning": "Conflict met with new beginnings and courage.",
+    "signature_marks": [
+      "II II II I",
+      "I I I I"
+    ],
+    "proverbs": [
+      "The brave heart confronts the storm and finds the sun.",
+      "New dawn breaks through the face of conflict."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] signals the forge where courage and justice are born.",
+      "Stand firm amidst chaos as the fire tempers the steel."
+    ]
+  },
+  {
+    "odu_id": 114,
+    "odu_name": "Okanran Oyeku",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "10001111",
+    "meaning": "Adversity through darkness; resilience in mystery.",
+    "signature_marks": [
+      "II II II I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "In the depths of night, true resolve is tested.",
+      "Shadowed trials reveal hidden strength."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] teaches that humility and vigilance are shields against unseen foes.",
+      "The darkest night births the brightest stars."
+    ]
+  },
+  {
+    "odu_id": 115,
+    "odu_name": "Okanran Iwori",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Iwori",
+    "binary_code": "10010001",
+    "meaning": "Insightful conflict leading to transformative wisdom.",
+    "signature_marks": [
+      "II II II I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "The sharp mind cuts through chaos.",
+      "Wisdom is forged in the heat of struggle."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] instructs to temper anger with understanding.",
+      "Conflict can be the teacher of clarity."
+    ]
+  },
+  {
+    "odu_id": 116,
+    "odu_name": "Okanran Odi",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Odi",
+    "binary_code": "10010110",
+    "meaning": "Protective boundaries in tumultuous times.",
+    "signature_marks": [
+      "II II II I",
+      "I I II I"
+    ],
+    "proverbs": [
+      "Strong walls guard fragile peace.",
+      "Discernment builds safe havens amid turmoil."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] counsels to balance vigilance with restraint.",
+      "Safety arises from wisely set limits."
+    ]
+  },
+  {
+    "odu_id": 117,
+    "odu_name": "Okanran Irosun",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Irosun",
+    "binary_code": "10011000",
+    "meaning": "Healing conflict through ancestral wisdom.",
+    "signature_marks": [
+      "II II II I",
+      "I II II II"
+    ],
+    "proverbs": [
+      "The past holds keys to future peace.",
+      "Ancestral grains nourish the soul in storms."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] opens blessings through remembrance and repair.",
+      "Healing grows where history is honored."
+    ]
+  },
+  {
+    "odu_id": 118,
+    "odu_name": "Okanran Owonrin",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "10011101",
+    "meaning": "Swift change amid conflict; adapt to survive.",
+    "signature_marks": [
+      "II II II I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "The lightning flash teaches quick wits.",
+      "Fleeting storms shape enduring landscapes."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] urges agility in the face of trials.",
+      "Adaptability is the shield of the wise."
+    ]
+  },
+  {
+    "odu_id": 119,
+    "odu_name": "Okanran Obara",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Obara",
+    "binary_code": "10011110",
+    "meaning": "Channeling energy constructively within conflict.",
+    "signature_marks": [
+      "II II II I",
+      "II I I I"
+    ],
+    "proverbs": [
+      "Controlled fire brings warmth, not destruction.",
+      "Energy focused builds, not destroys."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] exemplifies mastering passion with purpose.",
+      "Let your fire forge paths, not walls."
+    ]
+  },
+  {
+    "odu_id": 120,
+    "odu_name": "Okanran Okanran",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Okanran",
+    "binary_code": "10011111",
+    "meaning": "Internal struggle balanced by wisdom and courage.",
+    "signature_marks": [
+      "II II II I",
+      "II II II I"
+    ],
+    "proverbs": [
+      "The hardest battle is within.",
+      "Bravery is the calm amid internal storms."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] symbolizes the forge of character.",
+      "Master your inner fire to lead outside."
+    ]
+  },
+  {
+    "odu_id": 121,
+    "odu_name": "Okanran Ogunda",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "10100001",
+    "meaning": "Overcoming adversity through strategic action.",
+    "signature_marks": [
+      "II II II I",
+      "I I II II"
+    ],
+    "proverbs": [
+      "A clever hand removes obstacles.",
+      "Strategy wins long before battle."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] encourages calculated moves in hardship.",
+      "Let wisdom be your greatest weapon."
+    ]
+  },
+  {
+    "odu_id": 122,
+    "odu_name": "Okanran Osa",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Osa",
+    "binary_code": "10100011",
+    "meaning": "Navigating hidden dangers with prudence.",
+    "signature_marks": [
+      "II II II I",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Not all dangers wear loud faces.",
+      "Prudence guards the cautious."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] admonishes keen perception of shadows.",
+      "Wisdom sees what others cannot."
+    ]
+  },
+  {
+    "odu_id": 123,
+    "odu_name": "Okanran Ika",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Ika",
+    "binary_code": "10100100",
+    "meaning": "Discipline and control fortify resolve.",
+    "signature_marks": [
+      "II II II I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline is the fortress of the brave.",
+      "Control shapes destiny's course."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] shows mastery is born of discipline.",
+      "Strength without control is but raw force."
+    ]
+  },
+  {
+    "odu_id": 124,
+    "odu_name": "Okanran Oturupón",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "10101001",
+    "meaning": "Cycles of renewal after conflict.",
+    "signature_marks": [
+      "II II II I",
+      "II II I I"
+    ],
+    "proverbs": [
+      "After the storm, comes calm renewal.",
+      "Cycles bring lasting healing."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] affirms transformation and rebirth.",
+      "Let endings become new beginnings."
+    ]
+  },
+  {
+    "odu_id": 125,
+    "odu_name": "Okanran Otura",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Otura",
+    "binary_code": "10101011",
+    "meaning": "Guidance and clarity through spiritual renewal.",
+    "signature_marks": [
+      "II II II I",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Guides lead the lost through darkness.",
+      "Clarity comes from spiritual insight."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] inspires trust in divine guidance.",
+      "Let spirit illuminate your journey."
+    ]
+  },
+  {
+    "odu_id": 126,
+    "odu_name": "Okanran Irete",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Irete",
+    "binary_code": "10101100",
+    "meaning": "Prosperity balanced with caution and wisdom.",
+    "signature_marks": [
+      "II II II I",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Prosperity calls for the balance of mind and spirit.",
+      "Wisdom preserves wealth."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] teaches measured growth with foresight.",
+      "Let your gains reflect your wisdom."
+    ]
+  },
+  {
+    "odu_id": 127,
+    "odu_name": "Okanran Ose",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Ose",
+    "binary_code": "10101110",
+    "meaning": "Healing and purification after strife.",
+    "signature_marks": [
+      "II II II I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Wounds heal beneath the cleansing rain.",
+      "Purification follows chaos."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] guides toward renewal through healing.",
+      "Let old pains be washed away."
+    ]
+  },
+  {
+    "odu_id": 128,
+    "odu_name": "Okanran Ofun",
+    "parent_odu_1": "Okanran",
+    "parent_odu_2": "Ofun",
+    "binary_code": "10101111",
+    "meaning": "Clarity and fulfillment through disciplined transformation.",
+    "signature_marks": [
+      "II II II I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clear vision leads to realized destiny.",
+      "Fulfillment follows understanding."
+    ],
+    "verses": [
+      "[translate:Òkànràn Méjì] affirms the power of clarity and steadfastness.",
+      "With vision and patience, the path is made clear."
+    ]
+  }
+]

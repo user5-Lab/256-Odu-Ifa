@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 241,
+    "odu_name": "Ofun Ogbe",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "11000000",
+    "meaning": "Spiritual completion and new beginnings.",
+    "signature_marks": [
+      "II II II II",
+      "I I I I"
+    ],
+    "proverbs": [
+      "Completion opens doors to new paths.",
+      "Begin anew with clarity and purpose."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] teaches that ending and beginning are part of the eternal cycle.",
+      "Clarity emerges from the fullness of understanding."
+    ]
+  },
+  {
+    "odu_id": 242,
+    "odu_name": "Ofun Oyeku",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "11001111",
+    "meaning": "Clarity through embracing mystery and darkness.",
+    "signature_marks": [
+      "II II II II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "In the darkest moments, light is born.",
+      "Embrace mystery to find truth."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] reveals the power of humility and acceptance in growth.",
+      "The spirit’s light shines brightest in the shadows."
+    ]
+  },
+  {
+    "odu_id": 243,
+    "odu_name": "Ofun Iwori",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Iwori",
+    "binary_code": "11010001",
+    "meaning": "Insight and enlightenment through transformation.",
+    "signature_marks": [
+      "II II II II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Wisdom is the flame that transforms.",
+      "Insight clears the path forward."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] teaches the illumination that comes with knowledge.",
+      "Let your mind be the light in transition."
+    ]
+  },
+  {
+    "odu_id": 244,
+    "odu_name": "Ofun Odi",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Odi",
+    "binary_code": "11010110",
+    "meaning": "Protective clarity sustaining spiritual journey.",
+    "signature_marks": [
+      "II II II II",
+      "I I II I"
+    ],
+    "proverbs": [
+      "Strong defenses protect the enlightened soul.",
+      "Safety is the mother of clarity."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] advises vigilance balanced with wisdom.",
+      "Guard your spirit to walk with surety."
+    ]
+  },
+  {
+    "odu_id": 245,
+    "odu_name": "Ofun Irosun",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Irosun",
+    "binary_code": "11011000",
+    "meaning": "Healing and spiritual renewal through clarity.",
+    "signature_marks": [
+      "II II II II",
+      "I II II II"
+    ],
+    "proverbs": [
+      "Healing follows the light of understanding.",
+      "Renewal is the gift of awareness."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] embodies cleansing and restoration.",
+      "Allow your spirit to be refreshed."
+    ]
+  },
+  {
+    "odu_id": 246,
+    "odu_name": "Ofun Owonrin",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "11011101",
+    "meaning": "Swift spiritual insight and transformative power.",
+    "signature_marks": [
+      "II II II II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "The quick mind adapts and conquers.",
+      "Transformation flows in rapid currents."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] embraces the spirit's agility.",
+      "Move with the winds of change in faith."
+    ]
+  },
+  {
+    "odu_id": 247,
+    "odu_name": "Ofun Obara",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Obara",
+    "binary_code": "11011110",
+    "meaning": "Empowered spiritual communication and clarity.",
+    "signature_marks": [
+      "II II II II",
+      "II I I I"
+    ],
+    "proverbs": [
+      "Truth in speech brings light to darkness.",
+      "Words shape the destiny of nations."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] extols the divine power of truthful speech.",
+      "Speak from the heart with wisdom."
+    ]
+  },
+  {
+    "odu_id": 248,
+    "odu_name": "Ofun Okanran",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Okanran",
+    "binary_code": "11011111",
+    "meaning": "Balance through trials and spiritual growth.",
+    "signature_marks": [
+      "II II II II",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Through hardship, the spirit finds balance.",
+      "Growth is forged in the fire of challenge."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] advises resilience in the journey toward wholeness.",
+      "Let trials strengthen your resolve."
+    ]
+  },
+  {
+    "odu_id": 249,
+    "odu_name": "Ofun Ogunda",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "11100001",
+    "meaning": "Strength and clarity overcoming obstruction.",
+    "signature_marks": [
+      "II II II II",
+      "I I II II"
+    ],
+    "proverbs": [
+      "Clear strength cuts through all barriers.",
+      "Wisdom paves the path to victory."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] encourages the wise use of power.",
+      "Forge ahead with insight and might."
+    ]
+  },
+  {
+    "odu_id": 250,
+    "odu_name": "Ofun Osa",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Osa",
+    "binary_code": "11100011",
+    "meaning": "Spiritual vigilance and insightful protection.",
+    "signature_marks": [
+      "II II II II",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Awareness guards the unseen realms.",
+      "Insight protects the soul’s journey."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] teaches to be mindful of hidden dangers.",
+      "Let knowledge be your guard."
+    ]
+  },
+  {
+    "odu_id": 251,
+    "odu_name": "Ofun Ika",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Ika",
+    "binary_code": "11100100",
+    "meaning": "Discipline and self-mastery in spiritual clarity.",
+    "signature_marks": [
+      "II II II II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Self-mastery is the foundation of enlightenment.",
+      "Discipline clears the path to peace."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] emphasizes the power of control in spiritual ascent.",
+      "Master yourself to master your destiny."
+    ]
+  },
+  {
+    "odu_id": 252,
+    "odu_name": "Ofun Oturupón",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "11101001",
+    "meaning": "Renewal and spiritual endurance through cycles.",
+    "signature_marks": [
+      "II II II II",
+      "II II I I"
+    ],
+    "proverbs": [
+      "The cycle of renewal sustains the soul.",
+      "Endurance leads to rebirth."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] extols endless cycles of transformation.",
+      "Let the spirit rise anew with each dawn."
+    ]
+  },
+  {
+    "odu_id": 253,
+    "odu_name": "Ofun Otura",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Otura",
+    "binary_code": "11101011",
+    "meaning": "Healing and spiritual illumination.",
+    "signature_marks": [
+      "II II II II",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Healing light restores the weary.",
+      "Enlightenment dispels darkness."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] guides seekers toward peace and wholeness.",
+      "Let spiritual light guide your way."
+    ]
+  },
+  {
+    "odu_id": 254,
+    "odu_name": "Ofun Irete",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Irete",
+    "binary_code": "11101100",
+    "meaning": "Prosperity balanced with spiritual insight.",
+    "signature_marks": [
+      "II II II II",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Balance nurtures true abundance.",
+      "Wisdom preserves prosperity."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] teaches harmony as the root of wealth.",
+      "Grow riches with a humble heart."
+    ]
+  },
+  {
+    "odu_id": 255,
+    "odu_name": "Ofun Ose",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Ose",
+    "binary_code": "11101110",
+    "meaning": "Powerful cleansing and renewal.",
+    "signature_marks": [
+      "II II II II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Purification opens the way to transformation.",
+      "Healing renews the spirit’s strength."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] promotes cleansing as a path to spiritual power.",
+      "Let go and be made whole."
+    ]
+  },
+  {
+    "odu_id": 256,
+    "odu_name": "Ofun Ofun",
+    "parent_odu_1": "Ofun",
+    "parent_odu_2": "Ofun",
+    "binary_code": "11101111",
+    "meaning": "Completion, spiritual wholeness, and clarity of destiny.",
+    "signature_marks": [
+      "II II II II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Wholeness is the light of true clarity.",
+      "Destiny is fulfilled through spiritual purity."
+    ],
+    "verses": [
+      "[translate:Òfún Méjì] stands as the final completion in the cycle of life.",
+      "Achieve wholeness through the path of light."
+    ]
+  }
+]

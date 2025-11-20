@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 193,
+    "odu_name": "Otura Ogbe",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "11000000",
+    "meaning": "Spiritual clarity opening new beginnings.",
+    "signature_marks": [
+      "I I I II",
+      "I I I I"
+    ],
+    "proverbs": [
+      "Clarity of mind brings fruitful beginnings.",
+      "The enlightened walk with steady steps."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] teaches the harmony of clarity and action.",
+      "Light your path with wisdom and compassion."
+    ]
+  },
+  {
+    "odu_id": 194,
+    "odu_name": "Otura Oyeku",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "11001111",
+    "meaning": "Deep spiritual insight through mystery and surrender.",
+    "signature_marks": [
+      "I I I II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "In the silence of mystery, wisdom speaks.",
+      "Surrender opens the door to light."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] reveals strength found in humility and inward knowing.",
+      "Embrace the unknown to find peace."
+    ]
+  },
+  {
+    "odu_id": 195,
+    "odu_name": "Otura Iwori",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Iwori",
+    "binary_code": "11010001",
+    "meaning": "Intellectual clarity fostering spiritual growth.",
+    "signature_marks": [
+      "I I I II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Clear thought guides the enlightened soul.",
+      "Growth is born from understanding."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] emphasizes the blend of knowledge and spirit.",
+      "Apply wisdom to deepen your light."
+    ]
+  },
+  {
+    "odu_id": 196,
+    "odu_name": "Otura Odi",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Odi",
+    "binary_code": "11010110",
+    "meaning": "Protective wisdom sustaining spiritual journey.",
+    "signature_marks": [
+      "I I I II",
+      "I I II I"
+    ],
+    "proverbs": [
+      "Guard your spirit as a precious treasure.",
+      "Protection nurtures spiritual growth."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] teaches to defend what nourishes the soul.",
+      "Secure your foundation to rise higher."
+    ]
+  },
+  {
+    "odu_id": 197,
+    "odu_name": "Otura Irosun",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Irosun",
+    "binary_code": "11011000",
+    "meaning": "Healing and renewal through clarity.",
+    "signature_marks": [
+      "I I I II",
+      "I II II II"
+    ],
+    "proverbs": [
+      "Healing waters flow from clear springs.",
+      "Renewal breathes life into the soul."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] encourages spiritual cleansing and rebirth.",
+      "Let clarity refresh your spirit."
+    ]
+  },
+  {
+    "odu_id": 198,
+    "odu_name": "Otura Owonrin",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "11011101",
+    "meaning": "Adaptability and swift spiritual insight.",
+    "signature_marks": [
+      "I I I II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Light and swift minds adapt and renew.",
+      "Change is the soul’s dance."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] emphasizes embracing the flow of spiritual change.",
+      "Move gracefully with the spirit’s currents."
+    ]
+  },
+  {
+    "odu_id": 199,
+    "odu_name": "Otura Obara",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Obara",
+    "binary_code": "11011110",
+    "meaning": "Empowered spiritual communication.",
+    "signature_marks": [
+      "I I I II",
+      "II I I I"
+    ],
+    "proverbs": [
+      "True power flows from clear words and upright actions.",
+      "Spirit speaks through steady voice."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] teaches the sacred duty of truthful speech.",
+      "Let your voice reflect your inner light."
+    ]
+  },
+  {
+    "odu_id": 200,
+    "odu_name": "Otura Okanran",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Okanran",
+    "binary_code": "11011111",
+    "meaning": "Strength through trials balanced by spiritual clarity.",
+    "signature_marks": [
+      "I I I II",
+      "II II II I"
+    ],
+    "proverbs": [
+      "The bright mind endures the fiercest storm.",
+      "Balance is power amid strife."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] guides through hardship with calm wisdom.",
+      "Hold your center in the eye of the storm."
+    ]
+  },
+  {
+    "odu_id": 201,
+    "odu_name": "Otura Ogunda",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "11100001",
+    "meaning": "Overcoming obstacles with spiritual strength.",
+    "signature_marks": [
+      "I I I II",
+      "I I II II"
+    ],
+    "proverbs": [
+      "The steadfast spirit breaks through all barriers.",
+      "Strength and wisdom conquer all."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] affirms the power to transcend limitation.",
+      "Advance with courage and clarity."
+    ]
+  },
+  {
+    "odu_id": 202,
+    "odu_name": "Otura Osa",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Osa",
+    "binary_code": "11100011",
+    "meaning": "Insightful navigation of spiritual challenges.",
+    "signature_marks": [
+      "I I I II",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Wisdom reveals traps hidden in plain sight.",
+      "Spiritual eyes see beyond the veil."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] teaches vigilance and discernment.",
+      "See with the spirit, walk with wisdom."
+    ]
+  },
+  {
+    "odu_id": 203,
+    "odu_name": "Otura Ika",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Ika",
+    "binary_code": "11100100",
+    "meaning": "Discipline as foundation for spiritual peace.",
+    "signature_marks": [
+      "I I I II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline brings harmony to the spirit.",
+      "Peace follows steady mastery."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] stresses self-control as a spiritual art.",
+      "Rule your inner kingdom with gentle hand."
+    ]
+  },
+  {
+    "odu_id": 204,
+    "odu_name": "Otura Oturupón",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "11101001",
+    "meaning": "Endurance and continuous spiritual renewal.",
+    "signature_marks": [
+      "I I I II",
+      "II II I I"
+    ],
+    "proverbs": [
+      "Renewal flows with the tides of persistence.",
+      "The soul’s fire never dims."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] celebrates the eternal cycle of growth.",
+      "Persevere through transformation to find new life."
+    ]
+  },
+  {
+    "odu_id": 205,
+    "odu_name": "Otura Otura",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Otura",
+    "binary_code": "11101011",
+    "meaning": "Harmony and spiritual enlightenment.",
+    "signature_marks": [
+      "I I I II",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Harmony is the song of the enlightened.",
+      "Peace flows from balanced spirit."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] embodies the promise of spiritual peace.",
+      "Walk in harmony with all creation."
+    ]
+  },
+  {
+    "odu_id": 206,
+    "odu_name": "Otura Irete",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Irete",
+    "binary_code": "11101100",
+    "meaning": "Prosperity grounded in spiritual wisdom.",
+    "signature_marks": [
+      "I I I II",
+      "II I I II"
+    ],
+    "proverbs": [
+      "True wealth nurtured by spiritual roots.",
+      "Prosperity thrives in a mindful heart."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] encourages balance between material and spiritual success.",
+      "Let your fortune reflect your soul’s depth."
+    ]
+  },
+  {
+    "odu_id": 207,
+    "odu_name": "Otura Ose",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Ose",
+    "binary_code": "11101110",
+    "meaning": "Cleansing and healing powers manifest.",
+    "signature_marks": [
+      "I I I II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Purity clears the way for new blessings.",
+      "Healing flows when spirit opens."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] guides through purification towards renewal.",
+      "Let go of what binds you to rise."
+    ]
+  },
+  {
+    "odu_id": 208,
+    "odu_name": "Otura Ofun",
+    "parent_odu_1": "Otura",
+    "parent_odu_2": "Ofun",
+    "binary_code": "11101111",
+    "meaning": "Clarity and destiny fulfilled through enlightened choice.",
+    "signature_marks": [
+      "I I I II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clarity opens the door to destiny.",
+      "Enlightened choices carve the path ahead."
+    ],
+    "verses": [
+      "[translate:Òtúrá Méjì] crowns spiritual journeys with clarity and confidence.",
+      "Walk boldly in the light of your truth."
+    ]
+  }
+]

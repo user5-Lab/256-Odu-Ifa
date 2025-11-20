@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 145,
+    "odu_name": "Osa Ogbe",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "10000000",
+    "meaning": "Transformation through beginnings and spiritual challenge.",
+    "signature_marks": [
+      "II I II I",
+      "I I I I"
+    ],
+    "proverbs": [
+      "New beginnings often come with unexpected challenges.",
+      "The seedling bends but does not break."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] teaches that change must be embraced with courage and flexibility.",
+      "Spiritual forces act hidden but powerful."
+    ]
+  },
+  {
+    "odu_id": 146,
+    "odu_name": "Osa Oyeku",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "10001111",
+    "meaning": "Mystery and transformation through the darkness.",
+    "signature_marks": [
+      "II I II I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Even in darkness, wisdom grows.",
+      "Hidden truths unfold in the night."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] warns of secrets and unseen challenges that must be faced.",
+      "Courage is needed to navigate spiritual shadows."
+    ]
+  },
+  {
+    "odu_id": 147,
+    "odu_name": "Osa Iwori",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Iwori",
+    "binary_code": "10010001",
+    "meaning": "Insightful change and spiritual awakening.",
+    "signature_marks": [
+      "II I II I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Reflection lights the path in changing times.",
+      "Wisdom is the lantern in transformation."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] encourages keen observation and flexible wisdom.",
+      "Adjust your sails when the winds of spirit shift."
+    ]
+  },
+  {
+    "odu_id": 148,
+    "odu_name": "Osa Odi",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Odi",
+    "binary_code": "10010110",
+    "meaning": "Protective boundaries amid transformation.",
+    "signature_marks": [
+      "II I II I",
+      "I I II I"
+    ],
+    "proverbs": [
+      "Guard your flame in the midst of change.",
+      "Strong walls set the stage for safe growth."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] counsels a balance of caution and openness.",
+      "Fortify your spirit to weather the storms."
+    ]
+  },
+  {
+    "odu_id": 149,
+    "odu_name": "Osa Irosun",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Irosun",
+    "binary_code": "10011000",
+    "meaning": "Healing and renewal through spiritual forces.",
+    "signature_marks": [
+      "II I II I",
+      "I II II II"
+    ],
+    "proverbs": [
+      "Healing follows the storm’s passing.",
+      "Spirit renews what the earth cannot."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] blends transformation with the nurturing essence of Irosun.",
+      "Embrace the cycles of growth and healing."
+    ]
+  },
+  {
+    "odu_id": 150,
+    "odu_name": "Osa Owonrin",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "10011101",
+    "meaning": "Sudden change and spiritual adaptability.",
+    "signature_marks": [
+      "II I II I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Change is the wind that reshapes the landscape.",
+      "Adapt to the rhythm of the spirit."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] teaches flexibility as a key to spiritual survival.",
+      "Let your spirit flow with the currents."
+    ]
+  },
+  {
+    "odu_id": 151,
+    "odu_name": "Osa Obara",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Obara",
+    "binary_code": "10011110",
+    "meaning": "Dynamic energy and spiritual power.",
+    "signature_marks": [
+      "II I II I",
+      "II I I I"
+    ],
+    "proverbs": [
+      "Energy directed with wisdom achieves great feats.",
+      "Power flows where intention leads."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] emphasizes harnessing dynamic force for positive change.",
+      "Channel energy through spiritual discipline."
+    ]
+  },
+  {
+    "odu_id": 152,
+    "odu_name": "Osa Okanran",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Okanran",
+    "binary_code": "10011111",
+    "meaning": "Trial, resilience, and cautious transformation.",
+    "signature_marks": [
+      "II I II I",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Resilience is forged in the fires of trial.",
+      "Caution tempers fiery spirits."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] reminds to balance courage with prudence.",
+      "Brace your spirit against challenges."
+    ]
+  },
+  {
+    "odu_id": 153,
+    "odu_name": "Osa Ogunda",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "10100001",
+    "meaning": "Strength overcoming obstacles through spiritual power.",
+    "signature_marks": [
+      "II I II I",
+      "I I II II"
+    ],
+    "proverbs": [
+      "Strength breaks the meek’s barriers.",
+      "Spirit guides through difficult battles."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] empowers through resilience and combat.",
+      "Invoke ancestral strength to overcome."
+    ]
+  },
+  {
+    "odu_id": 154,
+    "odu_name": "Osa Osa",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Osa",
+    "binary_code": "10100011",
+    "meaning": "Core nature of change and unpredictability.",
+    "signature_marks": [
+      "II I II I",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Life moves like the river, ever-changing.",
+      "Unpredictability necessitates adaptability."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] embodies the spirit of dynamic transformation.",
+      "Flow with the rhythm of change."
+    ]
+  },
+  {
+    "odu_id": 155,
+    "odu_name": "Osa Ika",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Ika",
+    "binary_code": "10100100",
+    "meaning": "Discipline as foundation for navigating change.",
+    "signature_marks": [
+      "II I II I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline channels the wind’s chaos.",
+      "Order arises from discipline amid change."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] instructs self-control as a way to master transformation.",
+      "Let discipline be your guide."
+    ]
+  },
+  {
+    "odu_id": 156,
+    "odu_name": "Osa Oturupón",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "10101001",
+    "meaning": "Renewal and sustainability through transformation.",
+    "signature_marks": [
+      "II I II I",
+      "II II I I"
+    ],
+    "proverbs": [
+      "The earth renews its face with every season.",
+      "Sustainability flows from balance."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] highlights the power of cycles in spiritual life.",
+      "Embrace renewal as a continual journey."
+    ]
+  },
+  {
+    "odu_id": 157,
+    "odu_name": "Osa Otura",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Otura",
+    "binary_code": "10101011",
+    "meaning": "Spiritual clarity amid change.",
+    "signature_marks": [
+      "II I II I",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Clarity guides the wandering soul.",
+      "Light shines brightest in darkness."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] promises guidance for the faithful in turbulent times.",
+      "Follow the light within."
+    ]
+  },
+  {
+    "odu_id": 158,
+    "odu_name": "Osa Irete",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Irete",
+    "binary_code": "10101100",
+    "meaning": "Prosperity and balance through change.",
+    "signature_marks": [
+      "II I II I",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Prosperity is nurtured in adaptive soil.",
+      "Balance sustains abundance."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] teaches prosperity arises from spiritual cooperation.",
+      "Let your growth honor the cycle."
+    ]
+  },
+  {
+    "odu_id": 159,
+    "odu_name": "Osa Ose",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Ose",
+    "binary_code": "10101110",
+    "meaning": "Cleansing power and transformative healing.",
+    "signature_marks": [
+      "II I II I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Cleansing paves the way for rebirth.",
+      "Healing waters restore the soul."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] offers purification for body and spirit.",
+      "Let go of the old to welcome the new."
+    ]
+  },
+  {
+    "odu_id": 160,
+    "odu_name": "Osa Ofun",
+    "parent_odu_1": "Osa",
+    "parent_odu_2": "Ofun",
+    "binary_code": "10101111",
+    "meaning": "Clarity through change and spiritual wisdom.",
+    "signature_marks": [
+      "II I II I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clarity is the fruit of faithful perseverance.",
+      "Spiritual wisdom unlocks destiny."
+    ],
+    "verses": [
+      "[translate:Òsá Méjì] affirms the power of clear purpose.",
+      "Walk the path of light and truth."
+    ]
+  }
+]

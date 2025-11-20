@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 129,
+    "odu_name": "Ogunda Ogbe",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "10100000",
+    "meaning": "Strength in beginnings, the warrior's path unfolds.",
+    "signature_marks": [
+      "I I II II",
+      "I I I I"
+    ],
+    "proverbs": [
+      "The blade that cuts first wins the battle.",
+      "The warrior’s journey begins with a single step."
+    ],
+    "verses": [
+      "[translate:Ogunda Meji] speaks of the forge where courage and justice are shaped.",
+      "Prepare yourself to face challenges with wisdom and strength."
+    ]
+  },
+  {
+    "odu_id": 130,
+    "odu_name": "Ogunda Oyeku",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "10101111",
+    "meaning": "Immortality, spiritual protection, blessings of longevity.",
+    "signature_marks": [
+      "I I II II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Mountains do not perish; their strength endures.",
+      "Spiritual shields guard the faithful."
+    ],
+    "verses": [
+      "[translate:Ogunda Oyeku] teaches the blessing of safe journeys and protection from premature death.",
+      "With faithful sacrifice, prosperity and longevity are assured."
+    ]
+  },
+  {
+    "odu_id": 131,
+    "odu_name": "Ogunda Iwori",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Iwori",
+    "binary_code": "10110001",
+    "meaning": "Harnessing strength through insight and reflection.",
+    "signature_marks": [
+      "I I II II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "The sharpest sword is tempered by wisdom.",
+      "Reflection forges the strongest character."
+    ],
+    "verses": [
+      "[translate:Ogunda Iwori] encourages thoughtful strength to overcome any obstacle.",
+      "Use insight and courage to carve your path."
+    ]
+  },
+  {
+    "odu_id": 132,
+    "odu_name": "Ogunda Odi",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Odi",
+    "binary_code": "10110110",
+    "meaning": "Defense and protection through formidable strength.",
+    "signature_marks": [
+      "I I II II",
+      "I I II I"
+    ],
+    "proverbs": [
+      "A warrior without shield is a fool.",
+      "Protection is strength’s silent ally."
+    ],
+    "verses": [
+      "[translate:Ogunda Odi] counsels balance between offense and defense.",
+      "Guard your spirit as you advance."
+    ]
+  },
+  {
+    "odu_id": 133,
+    "odu_name": "Ogunda Irosun",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Irosun",
+    "binary_code": "10111000",
+    "meaning": "Healing power and ancestral strength.",
+    "signature_marks": [
+      "I I II II",
+      "I II II II"
+    ],
+    "proverbs": [
+      "He who heals wounds mends battles.",
+      "Ancestral spirits lend power and protection."
+    ],
+    "verses": [
+      "[translate:Ogunda Irosun] promotes renewal through ancestral guidance.",
+      "Draw strength from your roots to face the future."
+    ]
+  },
+  {
+    "odu_id": 134,
+    "odu_name": "Ogunda Owonrin",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "10111101",
+    "meaning": "Swift adaptability and dynamic power.",
+    "signature_marks": [
+      "I I II II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "The river changes course swiftly and surely.",
+      "Flexibility is strength in disguise."
+    ],
+    "verses": [
+      "[translate:Ogunda Owonrin] teaches that quick thinking saves the warrior.",
+      "Adapt and overcome the shifting tides."
+    ]
+  },
+  {
+    "odu_id": 135,
+    "odu_name": "Ogunda Obara",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Obara",
+    "binary_code": "10111110",
+    "meaning": "Motivated action and courage.",
+    "signature_marks": [
+      "I I II II",
+      "II I I I"
+    ],
+    "proverbs": [
+      "Courage is the spark of all victories.",
+      "Action turns dreams into reality."
+    ],
+    "verses": [
+      "[translate:Ogunda Obara] urges decisive and courageous steps forward.",
+      "Harness your energy to break through barriers."
+    ]
+  },
+  {
+    "odu_id": 136,
+    "odu_name": "Ogunda Okanran",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Okanran",
+    "binary_code": "10111111",
+    "meaning": "Overcoming adversity through inner strength and caution.",
+    "signature_marks": [
+      "I I II II",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Steadfastness battles the fiercest storms.",
+      "Resilient spirits rise after every fall."
+    ],
+    "verses": [
+      "[translate:Ogunda Okanran] teaches resilience and carefulness amidst trials.",
+      "Stand firm; let no conflict break your resolve."
+    ]
+  },
+  {
+    "odu_id": 137,
+    "odu_name": "Ogunda Ogunda",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "11000001",
+    "meaning": "Core strength and empowerment.",
+    "signature_marks": [
+      "I I II II",
+      "I I II II"
+    ],
+    "proverbs": [
+      "The iron that forges is unbreakable.",
+      "Mighty is the hand that creates order."
+    ],
+    "verses": [
+      "[translate:Ogunda Ogunda] embodies the spirit of creation and destruction.",
+      "Harness your core power for lasting success."
+    ]
+  },
+  {
+    "odu_id": 138,
+    "odu_name": "Ogunda Osa",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Osa",
+    "binary_code": "11000011",
+    "meaning": "Hidden challenges and prudent navigation.",
+    "signature_marks": [
+      "I I II II",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Not all dangers roar loudly.",
+      "Wisdom is vigilance in the shadows."
+    ],
+    "verses": [
+      "[translate:Ogunda Osa] guides cautious steps through unseen trials.",
+      "Listen to the silence that warns."
+    ]
+  },
+  {
+    "odu_id": 139,
+    "odu_name": "Ogunda Ika",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Ika",
+    "binary_code": "11000100",
+    "meaning": "Self-discipline leading to spiritual protection.",
+    "signature_marks": [
+      "I I II II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline is the fortress of the soul.",
+      "Control within wards off chaos without."
+    ],
+    "verses": [
+      "[translate:Ogunda Ika] teaches that inner mastery is the greatest armor.",
+      "Channel strength through self-restraint."
+    ]
+  },
+  {
+    "odu_id": 140,
+    "odu_name": "Ogunda Oturupón",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "11001001",
+    "meaning": "Endurance through cycles of renewal.",
+    "signature_marks": [
+      "I I II II",
+      "II II I I"
+    ],
+    "proverbs": [
+      "The tree sheds old leaves for new growth.",
+      "Endurance is the pulse of life’s cycles."
+    ],
+    "verses": [
+      "[translate:Ogunda Oturupón] affirms continual renewal and resilience.",
+      "Embrace change as the source of strength."
+    ]
+  },
+  {
+    "odu_id": 141,
+    "odu_name": "Ogunda Otura",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Otura",
+    "binary_code": "11001011",
+    "meaning": "Spiritual guidance and healing power.",
+    "signature_marks": [
+      "I I II II",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Healing flows through the spirit’s path.",
+      "Guidance lights the darkest roads."
+    ],
+    "verses": [
+      "[translate:Ogunda Otura] nurtures the soul’s healing journey.",
+      "Trust the spirit to lead to wholeness."
+    ]
+  },
+  {
+    "odu_id": 142,
+    "odu_name": "Ogunda Irete",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Irete",
+    "binary_code": "11001100",
+    "meaning": "Prosperity grounded in spiritual power.",
+    "signature_marks": [
+      "I I II II",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Prosperity is born in the fertile ground of wisdom.",
+      "The strongest oak grows from the deepest roots."
+    ],
+    "verses": [
+      "[translate:Ogunda Irete] teaches abundance through balance and spiritual integrity.",
+      "Let your prosperity serve your greater purpose."
+    ]
+  },
+  {
+    "odu_id": 143,
+    "odu_name": "Ogunda Ose",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Ose",
+    "binary_code": "11001110",
+    "meaning": "Cleansing and healing through power.",
+    "signature_marks": [
+      "I I II II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Cleansing clears the way for growth.",
+      "Healing renews the warrior."
+    ],
+    "verses": [
+      "[translate:Ogunda Ose] offers renewal through spiritual cleansing.",
+      "Let go of burdens to embrace new strength."
+    ]
+  },
+  {
+    "odu_id": 144,
+    "odu_name": "Ogunda Ofun",
+    "parent_odu_1": "Ogunda",
+    "parent_odu_2": "Ofun",
+    "binary_code": "11001111",
+    "meaning": "Clarity and fulfillment through fortitude.",
+    "signature_marks": [
+      "I I II II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clear vision brings destiny into focus.",
+      "Fortitude completes the journey."
+    ],
+    "verses": [
+      "[translate:Ogunda Ofun] affirms the power of clarity in overcoming challenges.",
+      "Stand firm in truth and purpose."
+    ]
+  }
+]

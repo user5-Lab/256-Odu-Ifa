@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 225,
+    "odu_name": "Ose Ogbe",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "01110000",
+    "meaning": "Healing, new beginnings, spiritual cleansing.",
+    "signature_marks": [
+      "I II I II",
+      "I I I I"
+    ],
+    "proverbs": [
+      "Healing begins where new light dawns.",
+      "The spirit cleansed brings forth new life."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] teaches renewal through spiritual purification.",
+      "Allow healing energy to flow freely."
+    ]
+  },
+  {
+    "odu_id": 226,
+    "odu_name": "Ose Oyeku",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "01110111",
+    "meaning": "Spiritual resilience through darkness, protection.",
+    "signature_marks": [
+      "I II I II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Strength conceals in silence.",
+      "Protection shines brightest in the dark."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] counsels steadfastness in unseen trials.",
+      "Endure and overcome with spiritual armor."
+    ]
+  },
+  {
+    "odu_id": 227,
+    "odu_name": "Ose Iwori",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Iwori",
+    "binary_code": "01111001",
+    "meaning": "Insight and transformation of the soul.",
+    "signature_marks": [
+      "I II I II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Wisdom cracks the shell of ignorance.",
+      "Transformation flows from deep insight."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] encourages growth through self-awareness.",
+      "Let your mind illuminate the path."
+    ]
+  },
+  {
+    "odu_id": 228,
+    "odu_name": "Ose Odi",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Odi",
+    "binary_code": "01111110",
+    "meaning": "Protective power and patient endurance.",
+    "signature_marks": [
+      "I II I II",
+      "I I II I"
+    ],
+    "proverbs": [
+      "Patience guards the fragile flame.",
+      "Defense is the gateway to survival."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] teaches the strength in waiting and protecting.",
+      "Patience is the door to victory."
+    ]
+  },
+  {
+    "odu_id": 229,
+    "odu_name": "Ose Irosun",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Irosun",
+    "binary_code": "01111000",
+    "meaning": "Healing through ancestral connection.",
+    "signature_marks": [
+      "I II I II",
+      "I II II II"
+    ],
+    "proverbs": [
+      "Ancestral wisdom mends the broken soul.",
+      "Healing springs from the source."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] highlights the importance of lineage in restoration.",
+      "Draw strength from your roots."
+    ]
+  },
+  {
+    "odu_id": 230,
+    "odu_name": "Ose Owonrin",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "01111101",
+    "meaning": "Swift change, adaptability, and spiritual agility.",
+    "signature_marks": [
+      "I II I II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Flow like water, swift and strong.",
+      "Adaptation leads to survival."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] celebrates the power of flexibility.",
+      "Bend with the wind to last the storm."
+    ]
+  },
+  {
+    "odu_id": 231,
+    "odu_name": "Ose Obara",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Obara",
+    "binary_code": "01111110",
+    "meaning": "Assertive communication and spiritual power.",
+    "signature_marks": [
+      "I II I II",
+      "II I I I"
+    ],
+    "proverbs": [
+      "The word is the sword of the spirit.",
+      "Speak with wisdom, act with power."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] highlights the spiritual potency of language.",
+      "Let your voice be a beacon."
+    ]
+  },
+  {
+    "odu_id": 232,
+    "odu_name": "Ose Okanran",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Okanran",
+    "binary_code": "01111111",
+    "meaning": "Trial, transformation, and spiritual strength.",
+    "signature_marks": [
+      "I II I II",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Adversity is the forge of strength.",
+      "The strongest oak stands through storms."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] teaches endurance and growth through challenge.",
+      "Refine your spirit in the fire of trial."
+    ]
+  },
+  {
+    "odu_id": 233,
+    "odu_name": "Ose Ogunda",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "10000001",
+    "meaning": "Overcoming obstructions with wisdom and power.",
+    "signature_marks": [
+      "I II I II",
+      "I I II II"
+    ],
+    "proverbs": [
+      "Strong hands open the heaviest doors.",
+      "Wisdom guides strength to victory."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] urges clever and determined action.",
+      "Approach obstacles with both mind and might."
+    ]
+  },
+  {
+    "odu_id": 234,
+    "odu_name": "Ose Osa",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Osa",
+    "binary_code": "10000011",
+    "meaning": "Invisible forces and prudent spiritual navigation.",
+    "signature_marks": [
+      "I II I II",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Not all that lurks in shadows causes harm.",
+      "Caution keeps the spirit safe."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] stresses awareness and preparedness.",
+      "Walk carefully in the realm of unseen forces."
+    ]
+  },
+  {
+    "odu_id": 235,
+    "odu_name": "Ose Ika",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Ika",
+    "binary_code": "10000100",
+    "meaning": "Self-control strengthening spiritual resolve.",
+    "signature_marks": [
+      "I II I II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Self-mastery is the key to all victories.",
+      "Discipline shields the spirit."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] teaches the necessity of internal balance.",
+      "Control yourself to control your destiny."
+    ]
+  },
+  {
+    "odu_id": 236,
+    "odu_name": "Ose Oturupón",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "10001001",
+    "meaning": "Renewal and spiritual endurance.",
+    "signature_marks": [
+      "I II I II",
+      "II II I I"
+    ],
+    "proverbs": [
+      "The river renews the land with each flow.",
+      "Endurance leads to resurrection."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] reveals the cycle of spiritual rebirth.",
+      "Persist and be reborn anew."
+    ]
+  },
+  {
+    "odu_id": 237,
+    "odu_name": "Ose Otura",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Otura",
+    "binary_code": "10001011",
+    "meaning": "Healing and clarity from spiritual awakening.",
+    "signature_marks": [
+      "I II I II",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Clarity heals the broken soul.",
+      "Spirit lights the hidden path."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] guides to peace through spiritual understanding.",
+      "Let wisdom cleanse your spirit."
+    ]
+  },
+  {
+    "odu_id": 238,
+    "odu_name": "Ose Irete",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Irete",
+    "binary_code": "10001100",
+    "meaning": "Balanced prosperity through spiritual discipline.",
+    "signature_marks": [
+      "I II I II",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Prosperity blooms from balanced roots.",
+      "Discipline nurtures lasting wealth."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] teaches the synergy of growth and restraint.",
+      "Progress through harmony of body and spirit."
+    ]
+  },
+  {
+    "odu_id": 239,
+    "odu_name": "Ose Ose",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Ose",
+    "binary_code": "10001110",
+    "meaning": "Powerful cleansing and spiritual authority.",
+    "signature_marks": [
+      "I II I II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Purity is the source of true power.",
+      "Clean spirit commands respect."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] embodies the cleansing fire of transformation.",
+      "Let your spirit shine bright and clear."
+    ]
+  },
+  {
+    "odu_id": 240,
+    "odu_name": "Ose Ofun",
+    "parent_odu_1": "Ose",
+    "parent_odu_2": "Ofun",
+    "binary_code": "10001111",
+    "meaning": "Clarity, destiny revealed, spiritual fulfillment.",
+    "signature_marks": [
+      "I II I II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clarity solidifies the foundation of fate.",
+      "Fulfillment grows in illuminated paths."
+    ],
+    "verses": [
+      "[translate:Òsé Méjì] crowns the journey with purpose and insight.",
+      "Walk with the light of destiny fulfilled."
+    ]
+  }
+]

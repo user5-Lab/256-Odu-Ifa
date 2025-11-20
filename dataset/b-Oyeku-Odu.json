@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 17,
+    "odu_name": "Oyeku Ogbe",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "11110000",
+    "meaning": "New cycles born from endings; transformation.",
+    "signature_marks": [
+      "II II II II",
+      "I I I I"
+    ],
+    "proverbs": [
+      "The night dies for the dawn to be born.",
+      "Out of darkness, light emerges."
+    ],
+    "verses": [
+      "Oyeku Ogbe speaks: Every ending in the world is the seed of a new beginning.",
+      "Do not mourn what ends; celebrate what begins."
+    ]
+  },
+  {
+    "odu_id": 18,
+    "odu_name": "Oyeku Oyeku",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "11111111",
+    "meaning": "Mystery, endings, hidden wisdom, humility.",
+    "signature_marks": [
+      "II II II II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "The deepest well hides the purest water.",
+      "When all is hidden, the wise see beyond the veil."
+    ],
+    "verses": [
+      "Oyeku Oyeku teaches: In silence and mystery, the truth reveals itself slowly.",
+      "To go within is to discover all that is unknown in the world."
+    ]
+  },
+  {
+    "odu_id": 19,
+    "odu_name": "Oyeku Iwori",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Iwori",
+    "binary_code": "11110001",
+    "meaning": "Victory through reflection and perseverance.",
+    "signature_marks": [
+      "II II II II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "He who reflects conquers twice.",
+      "What is learned in the dark shines in the light."
+    ],
+    "verses": [
+      "Oyeku Iwori says: Remain thoughtful in adversity, for wisdom is strongest there.",
+      "Offerings made in secret yield loud blessings."
+    ]
+  },
+  {
+    "odu_id": 20,
+    "odu_name": "Oyeku Odi",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Odi",
+    "binary_code": "11110110",
+    "meaning": "Boundaries, necessary endings, protection.",
+    "signature_marks": [
+      "II II II II",
+      "I I II I"
+    ],
+    "proverbs": [
+      "A closed door keeps sorrow inside and joy outside.",
+      "Not every ending is to be mourned; some protect."
+    ],
+    "verses": [
+      "Oyeku Odi warns: Know what must end to preserve what is precious.",
+      "Build walls where wild winds blow."
+    ]
+  },
+  {
+    "odu_id": 21,
+    "odu_name": "Oyeku Irosun",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Irosun",
+    "binary_code": "11111000",
+    "meaning": "Learning from past cycles, wisdom from change.",
+    "signature_marks": [
+      "II II II II",
+      "I II II II"
+    ],
+    "proverbs": [
+      "Old fires warm the new traveler.",
+      "A wise person counts both blessings and lessons."
+    ],
+    "verses": [
+      "Oyeku Irosun teaches: All cycles bring knowledge; cherish even the difficult turns.",
+      "From every error, gain a step towards completion."
+    ]
+  },
+  {
+    "odu_id": 22,
+    "odu_name": "Oyeku Owonrin",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "11111101",
+    "meaning": "Sudden shifts, hidden luck, embracing surprise.",
+    "signature_marks": [
+      "II II II II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Sometimes fortune hides in uncertainty.",
+      "Thunder clarifies the air."
+    ],
+    "verses": [
+      "Oyeku Owonrin reveals: Unexpected events are the ancestors’ riddles; learn to read them.",
+      "Let surprise teach you happiness."
+    ]
+  },
+  {
+    "odu_id": 23,
+    "odu_name": "Oyeku Obara",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Obara",
+    "binary_code": "11111110",
+    "meaning": "Power of voice under restraint, silent leadership.",
+    "signature_marks": [
+      "II II II II",
+      "II I I I"
+    ],
+    "proverbs": [
+      "The quiet drum is heard farthest in the heart.",
+      "Speak less, act more."
+    ],
+    "verses": [
+      "Oyeku Obara says: Let your actions lead while your voice waits.",
+      "Lead not only by command, but by example."
+    ]
+  },
+  {
+    "odu_id": 24,
+    "odu_name": "Oyeku Okanran",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Okanran",
+    "binary_code": "11111111",
+    "meaning": "Challenges out of nowhere, humility through reversal.",
+    "signature_marks": [
+      "II II II II",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Rivers change their course by force unseen.",
+      "Bend so you do not break."
+    ],
+    "verses": [
+      "Oyeku Okanran counsels: Stay flexible as fate reverses direction.",
+      "Endure loss to discover your true path."
+    ]
+  },
+  {
+    "odu_id": 25,
+    "odu_name": "Oyeku Ogunda",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "11000001",
+    "meaning": "Overcoming obstacles, outside aid.",
+    "signature_marks": [
+      "II II II II",
+      "I I II II"
+    ],
+    "proverbs": [
+      "When blocked, look for a new entrance.",
+      "A stranger sometimes brings the freshest water."
+    ],
+    "verses": [
+      "Oyeku Ogunda teaches: Accept help from the unfamiliar to break through.",
+      "Call for aid when your arms tire."
+    ]
+  },
+  {
+    "odu_id": 26,
+    "odu_name": "Oyeku Osa",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Osa",
+    "binary_code": "11000011",
+    "meaning": "Hidden danger, concealed enemies, caution.",
+    "signature_marks": [
+      "II II II II",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Not all snakes hiss.",
+      "Beware the silence that follows a storm."
+    ],
+    "verses": [
+      "Oyeku Osa advises: Listen twice before trusting.",
+      "Danger cloaks itself in plain sight."
+    ]
+  },
+  {
+    "odu_id": 27,
+    "odu_name": "Oyeku Ika",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Ika",
+    "binary_code": "11000100",
+    "meaning": "Caution, control, discipline brings safety.",
+    "signature_marks": [
+      "II II II II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Better to master yourself than conquer cities.",
+      "The steady hand guards the prize."
+    ],
+    "verses": [
+      "Oyeku Ika says: Take control to keep your fortune.",
+      "Careful steps leave lasting tracks."
+    ]
+  },
+  {
+    "odu_id": 28,
+    "odu_name": "Oyeku Oturupón",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "11001001",
+    "meaning": "Cycles, rebirth, hidden blessings.",
+    "signature_marks": [
+      "II II II II",
+      "II II I I"
+    ],
+    "proverbs": [
+      "The earth spins, never showing one face.",
+      "Blessings come disguised as hard work."
+    ],
+    "verses": [
+      "Oyeku Oturupón says: Even failure hides a seed of renewal.",
+      "Return again and again until your effort bears fruit."
+    ]
+  },
+  {
+    "odu_id": 29,
+    "odu_name": "Oyeku Otura",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Otura",
+    "binary_code": "11001011",
+    "meaning": "Spiritual wisdom, listening to the unseen.",
+    "signature_marks": [
+      "II II II II",
+      "I I I II"
+    ],
+    "proverbs": [
+      "The wind prays in silence.",
+      "Guidance listens with closed eyes."
+    ],
+    "verses": [
+      "Oyeku Otura teaches: Wisdom is heard not always spoken.",
+      "The path is marked by whispers and signs."
+    ]
+  },
+  {
+    "odu_id": 30,
+    "odu_name": "Oyeku Irete",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Irete",
+    "binary_code": "11001100",
+    "meaning": "Material gain through spiritual practice.",
+    "signature_marks": [
+      "II II II II",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Wealth gathers where spirit is respected.",
+      "Gratitude builds treasures untold."
+    ],
+    "verses": [
+      "Oyeku Irete affirms: Prosperity is the reward of spiritual discipline.",
+      "Share and your blessings multiply."
+    ]
+  },
+  {
+    "odu_id": 31,
+    "odu_name": "Oyeku Ose",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Ose",
+    "binary_code": "11001110",
+    "meaning": "Healing after loss, positive transformation.",
+    "signature_marks": [
+      "II II II II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Tears water tomorrow’s growth.",
+      "Healing follows honesty."
+    ],
+    "verses": [
+      "Oyeku Ose says: After what is lost, what is most needed arrives.",
+      "Let your wounds become wells of strength."
+    ]
+  },
+  {
+    "odu_id": 32,
+    "odu_name": "Oyeku Ofun",
+    "parent_odu_1": "Oyeku",
+    "parent_odu_2": "Ofun",
+    "binary_code": "11001111",
+    "meaning": "Truth revealed, destiny by perseverance.",
+    "signature_marks": [
+      "II II II II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "The purest gold is tested by the hottest fire.",
+      "Fortune is the child of patience."
+    ],
+    "verses": [
+      "Oyeku Ofun affirms: True destiny is revealed by testing and waiting.",
+      "Patience brings reward beyond expectation."
+    ]
+  }
+]

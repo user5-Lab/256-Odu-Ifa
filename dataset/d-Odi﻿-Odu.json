@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 49,
+    "odu_name": "Odi Ogbe",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "10110000",
+    "meaning": "Grounding new beginnings, stability in growth.",
+    "signature_marks": [
+      "I I II I",
+      "I I I I"
+    ],
+    "proverbs": [
+      "The tree that stands firm withstands the strongest winds.",
+      "A solid foundation brings lasting success."
+    ],
+    "verses": [
+      "Odi Ogbe enjoins: Secure your roots so your branches may reach the sky.",
+      "Success follows those who build with patience and dedication."
+    ]
+  },
+  {
+    "odu_id": 50,
+    "odu_name": "Odi Oyeku",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "10111111",
+    "meaning": "Reflection in darkness, wisdom through silence.",
+    "signature_marks": [
+      "I I II I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "The deepest wells give the purest water.",
+      "In silence, wisdom grows."
+    ],
+    "verses": [
+      "Odi Oyeku teaches: Embrace the quiet, for clarity emerges in stillness.",
+      "Let your soul find peace before action."
+    ]
+  },
+  {
+    "odu_id": 51,
+    "odu_name": "Odi Iwori",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Iwori",
+    "binary_code": "10110001",
+    "meaning": "Insight from obstacles, illumination in adversity.",
+    "signature_marks": [
+      "I I II I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "The hardest stone reveals the brightest face when polished.",
+      "Adversity is the crucible of wisdom."
+    ],
+    "verses": [
+      "Odi Iwori says: Light your path with lessons learned from trials.",
+      "Strength is born of challenge."
+    ]
+  },
+  {
+    "odu_id": 52,
+    "odu_name": "Odi Odi",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Odi",
+    "binary_code": "10110110",
+    "meaning": "Containment, defense, wise protection.",
+    "signature_marks": [
+      "I I II I",
+      "I I II I"
+    ],
+    "proverbs": [
+      "A guarded gate keeps the unwelcome out.",
+      "Strength lies in prudent defense."
+    ],
+    "verses": [
+      "Odi Odi advises: Build barriers where danger lurks, but do not close your heart.",
+      "Protection is the first step to freedom."
+    ]
+  },
+  {
+    "odu_id": 53,
+    "odu_name": "Odi Irosun",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Irosun",
+    "binary_code": "10111000",
+    "meaning": "Learning from history, healing through memory.",
+    "signature_marks": [
+      "I I II I",
+      "I II II II"
+    ],
+    "proverbs": [
+      "The past is a compass for the present.",
+      "Healing comes when wounds are remembered and tended."
+    ],
+    "verses": [
+      "Odi Irosun teaches: Reflect on history to avoid repeating mistakes.",
+      "Wisdom grows where pains are acknowledged."
+    ]
+  },
+  {
+    "odu_id": 54,
+    "odu_name": "Odi Owonrin",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "10111101",
+    "meaning": "Sudden events balanced by steady will.",
+    "signature_marks": [
+      "I I II I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Steady hands calm turbulent waters.",
+      "In storms, the anchor holds firm."
+    ],
+    "verses": [
+      "Odi Owonrin imparts: Be steady in surprise, unshaken by sudden change.",
+      "Balance is the compass in chaos."
+    ]
+  },
+  {
+    "odu_id": 55,
+    "odu_name": "Odi Obara",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Obara",
+    "binary_code": "10111110",
+    "meaning": "Silent leadership, wisdom in restraint.",
+    "signature_marks": [
+      "I I II I",
+      "II I I I"
+    ],
+    "proverbs": [
+      "The river flows quiet but deep.",
+      "Speechless power prevails longest."
+    ],
+    "verses": [
+      "Odi Obara counsels: Lead with wisdom, speak when necessary.",
+      "Silence strengthens the voice of power."
+    ]
+  },
+  {
+    "odu_id": 56,
+    "odu_name": "Odi Okanran",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Okanran",
+    "binary_code": "10111111",
+    "meaning": "Trials that build endurance.",
+    "signature_marks": [
+      "I I II I",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Endurance crowns the warrior.",
+      "Tough roads lead to honored places."
+    ],
+    "verses": [
+      "Odi Okanran tells: Let trials temper your spirit.",
+      "True strength lies in persistence."
+    ]
+  },
+  {
+    "odu_id": 57,
+    "odu_name": "Odi Ogunda",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "10000001",
+    "meaning": "Breaking barriers through wisdom.",
+    "signature_marks": [
+      "I I II I",
+      "I I II II"
+    ],
+    "proverbs": [
+      "The wise break stones with patience, not force.",
+      "Wisdom opens the locked door."
+    ],
+    "verses": [
+      "Odi Ogunda guides: Use patience as the chisel to shape your world.",
+      "Barriers fall where wisdom leads."
+    ]
+  },
+  {
+    "odu_id": 58,
+    "odu_name": "Odi Osa",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Osa",
+    "binary_code": "10000011",
+    "meaning": "Cunning, hidden forces, cautious navigation.",
+    "signature_marks": [
+      "I I II I",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Not all shadows hide what is feared.",
+      "Caution walks with the wise."
+    ],
+    "verses": [
+      "Odi Osa advises: Beware what lies beneath the surface.",
+      "Steer carefully through troubled waters."
+    ]
+  },
+  {
+    "odu_id": 59,
+    "odu_name": "Odi Ika",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Ika",
+    "binary_code": "10000100",
+    "meaning": "Strength through self-discipline.",
+    "signature_marks": [
+      "I I II I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline is the shield of the strong.",
+      "Self-control is the beginning of wisdom."
+    ],
+    "verses": [
+      "Odi Ika says: Master yourself before seeking to master others.",
+      "Strength tempered by discipline endures all things."
+    ]
+  },
+  {
+    "odu_id": 60,
+    "odu_name": "Odi Oturupón",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "10001001",
+    "meaning": "Renewal, spiritual cycles, transformation.",
+    "signature_marks": [
+      "I I II I",
+      "II II I I"
+    ],
+    "proverbs": [
+      "The moon wanes only to wax again.",
+      "Renewal is the heartbeat of life."
+    ],
+    "verses": [
+      "Odi Oturupón imparts: Embrace the endless cycles of change.",
+      "Transformation begins where fear ends."
+    ]
+  },
+  {
+    "odu_id": 61,
+    "odu_name": "Odi Otura",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Otura",
+    "binary_code": "10001011",
+    "meaning": "Guidance, trusting unseen forces.",
+    "signature_marks": [
+      "I I II I",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Faith guides the unseen path.",
+      "Trust the whisper of the wind."
+    ],
+    "verses": [
+      "Odi Otura teaches: Walk with faith to reach new horizons.",
+      "Spiritual guidance lights the dark road."
+    ]
+  },
+  {
+    "odu_id": 62,
+    "odu_name": "Odi Irete",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Irete",
+    "binary_code": "10001100",
+    "meaning": "Prosperity balanced with responsibility.",
+    "signature_marks": [
+      "I I II I",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Wealth is a river that must be wisely steered.",
+      "Responsibility guards prosperity."
+    ],
+    "verses": [
+      "Odi Irete offers: Share your fortune and it will return tenfold.",
+      "Prosperity blooms with care and humility."
+    ]
+  },
+  {
+    "odu_id": 63,
+    "odu_name": "Odi Ose",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Ose",
+    "binary_code": "10001110",
+    "meaning": "Healing and cleansing after trials.",
+    "signature_marks": [
+      "I I II I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "The river cleanses the weary traveler.",
+      "Healing is nature’s promise after hardship."
+    ],
+    "verses": [
+      "Odi Ose says: Let go of pain so new strength may rise.",
+      "Healing flows where hope is found."
+    ]
+  },
+  {
+    "odu_id": 64,
+    "odu_name": "Odi Ofun",
+    "parent_odu_1": "Odi",
+    "parent_odu_2": "Ofun",
+    "binary_code": "10001111",
+    "meaning": "Clarity, truth revealed, destiny fulfilled.",
+    "signature_marks": [
+      "I I II I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Truth is the light that never fades.",
+      "Destiny is forged by clarity and will."
+    ],
+    "verses": [
+      "Odi Ofun affirms: Stand in truth and walk your destined path.",
+      "The pure heart sees the clearest future."
+    ]
+  }
+]

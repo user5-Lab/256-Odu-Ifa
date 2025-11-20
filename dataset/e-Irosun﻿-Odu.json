@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 65,
+    "odu_name": "Irosun Ogbe",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "11000000",
+    "meaning": "Transformation through beginnings and ancestral wisdom.",
+    "signature_marks": [
+      "I II II II",
+      "I I I I"
+    ],
+    "proverbs": [
+      "Transformation begins when the root is nourished.",
+      "Ancestral wisdom lights the path of change."
+    ],
+    "verses": [
+      "Irosun Ogbe teaches: Embrace your heritage to foster new growth.",
+      "The flow of life is guided by ancestral spirits."
+    ]
+  },
+  {
+    "odu_id": 66,
+    "odu_name": "Irosun Oyeku",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "11001111",
+    "meaning": "Wisdom through darkness and spiritual rebirth.",
+    "signature_marks": [
+      "I II II II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Out of darkness comes clarity.",
+      "Spiritual rebirth follows the night’s silence."
+    ],
+    "verses": [
+      "Irosun Oyeku says: The deepest mysteries birth the greatest wisdom.",
+      "In the stillness of night, the spirit awakens."
+    ]
+  },
+  {
+    "odu_id": 67,
+    "odu_name": "Irosun Iwori",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Iwori",
+    "binary_code": "11010001",
+    "meaning": "Revelation and intellectual transformation.",
+    "signature_marks": [
+      "I II II II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "The fire of knowledge reveals hidden paths.",
+      "Transformation comes through reflective thought."
+    ],
+    "verses": [
+      "Irosun Iwori teaches: Let your mind blaze the trail.",
+      "Every question is a spark for growth."
+    ]
+  },
+  {
+    "odu_id": 68,
+    "odu_name": "Irosun Odi",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Odi",
+    "binary_code": "11010110",
+    "meaning": "Protection and patience in transformation.",
+    "signature_marks": [
+      "I II II II",
+      "I I II I"
+    ],
+    "proverbs": [
+      "Patience guards the flame of change.",
+      "Strength is in steady protection."
+    ],
+    "verses": [
+      "Irosun Odi imparts: Shield your growth with care.",
+      "Endure wisely through the seasons of change."
+    ]
+  },
+  {
+    "odu_id": 69,
+    "odu_name": "Irosun Irosun",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Irosun",
+    "binary_code": "11011000",
+    "meaning": "Generational continuity and sacred tradition.",
+    "signature_marks": [
+      "I II II II",
+      "I II II II"
+    ],
+    "proverbs": [
+      "The river flows unbroken through time.",
+      "Tradition is the fertile soil of the future."
+    ],
+    "verses": [
+      "Irosun Irosun declares: Honor the past to enrich the future.",
+      "Life’s flow continues through ancestral blessing."
+    ]
+  },
+  {
+    "odu_id": 70,
+    "odu_name": "Irosun Owonrin",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "11011101",
+    "meaning": "Sudden changes in spiritual growth.",
+    "signature_marks": [
+      "I II II II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "The lightning breaks the darkness.",
+      "Sudden insight shapes destiny."
+    ],
+    "verses": [
+      "Irosun Owonrin reveals: Be open to the unexpected gifts of change.",
+      "Let surprise energize your spirit."
+    ]
+  },
+  {
+    "odu_id": 71,
+    "odu_name": "Irosun Obara",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Obara",
+    "binary_code": "11011110",
+    "meaning": "Silent strength and transformative leadership.",
+    "signature_marks": [
+      "I II II II",
+      "II I I I"
+    ],
+    "proverbs": [
+      "The quiet captain steers the ship true.",
+      "Power lies in calm resolve."
+    ],
+    "verses": [
+      "Irosun Obara says: Lead with steady wisdom and quiet force.",
+      "True leaders hear the whispers of fate."
+    ]
+  },
+  {
+    "odu_id": 72,
+    "odu_name": "Irosun Okanran",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Okanran",
+    "binary_code": "11011111",
+    "meaning": "Trials that forge inner strength.",
+    "signature_marks": [
+      "I II II II",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Through trial the steel is tempered.",
+      "Adversity reveals hidden strength."
+    ],
+    "verses": [
+      "Irosun Okanran teaches: Endure with courage for strength follows trial.",
+      "Let each hardship sharpen your resolve."
+    ]
+  },
+  {
+    "odu_id": 73,
+    "odu_name": "Irosun Ogunda",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "11100001",
+    "meaning": "Overcoming obstacles through ancestral power.",
+    "signature_marks": [
+      "I II II II",
+      "I I II II"
+    ],
+    "proverbs": [
+      "The mountain bows to the persistent river.",
+      "Ancestral strength breaks all barriers."
+    ],
+    "verses": [
+      "Irosun Ogunda guides: Call upon your lineage to overcome challenges.",
+      "No obstacle stands before true determination."
+    ]
+  },
+  {
+    "odu_id": 74,
+    "odu_name": "Irosun Osa",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Osa",
+    "binary_code": "11100011",
+    "meaning": "Hidden truths and spiritual guidance.",
+    "signature_marks": [
+      "I II II II",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Not all that is hidden is lost.",
+      "Seek the unseen to find the truth."
+    ],
+    "verses": [
+      "Irosun Osa advises: Trust the guidance of the silent forces.",
+      "In the shadows, wisdom waits."
+    ]
+  },
+  {
+    "odu_id": 75,
+    "odu_name": "Irosun Ika",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Ika",
+    "binary_code": "11100100",
+    "meaning": "Discipline and self-mastery in growth.",
+    "signature_marks": [
+      "I II II II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Mastery of self is the greatest victory.",
+      "Discipline cultivates the richest harvest."
+    ],
+    "verses": [
+      "Irosun Ika says: Control leads to true freedom.",
+      "The disciplined mind surpasses obstacles."
+    ]
+  },
+  {
+    "odu_id": 76,
+    "odu_name": "Irosun Oturupón",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "11101001",
+    "meaning": "Cycle of death and renewal through spiritual insight.",
+    "signature_marks": [
+      "I II II II",
+      "II II I I"
+    ],
+    "proverbs": [
+      "From death springs new life.",
+      "The spirit renews like the rising sun."
+    ],
+    "verses": [
+      "Irosun Oturupón states: Embrace the cycle of endings and beginnings.",
+      "The soul’s journey is eternal."
+    ]
+  },
+  {
+    "odu_id": 77,
+    "odu_name": "Irosun Otura",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Otura",
+    "binary_code": "11101011",
+    "meaning": "Spiritual guidance and healing powers.",
+    "signature_marks": [
+      "I II II II",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Healing comes through the spirit’s light.",
+      "Guidance is found when the heart listens."
+    ],
+    "verses": [
+      "Irosun Otura teaches: Follow the light within for true healing.",
+      "Let wisdom be your physician."
+    ]
+  },
+  {
+    "odu_id": 78,
+    "odu_name": "Irosun Irete",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Irete",
+    "binary_code": "11101100",
+    "meaning": "Prosperity born from spiritual and ancestral balance.",
+    "signature_marks": [
+      "I II II II",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Prosperity blooms in the soil of spirit.",
+      "Balance brings abundance."
+    ],
+    "verses": [
+      "Irosun Irete says: True wealth grows from harmony within and without.",
+      "Share to multiply blessings."
+    ]
+  },
+  {
+    "odu_id": 79,
+    "odu_name": "Irosun Ose",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Ose",
+    "binary_code": "11101110",
+    "meaning": "Healing and renewal after adversity.",
+    "signature_marks": [
+      "I II II II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "After pain comes purification.",
+      "The wound heals with time and care."
+    ],
+    "verses": [
+      "Irosun Ose teaches: Let your spirit cleanse the wounds of yesterday.",
+      "Healing is the foundation of strength."
+    ]
+  },
+  {
+    "odu_id": 80,
+    "odu_name": "Irosun Ofun",
+    "parent_odu_1": "Irosun",
+    "parent_odu_2": "Ofun",
+    "binary_code": "11101111",
+    "meaning": "Clarity and fulfillment of destiny through wisdom.",
+    "signature_marks": [
+      "I II II II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clarity fuels the flame of destiny.",
+      "Wisdom brings paths into the light."
+    ],
+    "verses": [
+      "Irosun Ofun affirms: Fulfill your destiny with clear vision and heart.",
+      "The wise see beyond the horizon."
+    ]
+  }
+]

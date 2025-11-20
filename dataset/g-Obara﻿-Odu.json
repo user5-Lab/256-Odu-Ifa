@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 97,
+    "odu_name": "Obara Ogbe",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "11000000",
+    "meaning": "Energy and new beginnings, proactive transformation.",
+    "signature_marks": [
+      "II I I I",
+      "I I I I"
+    ],
+    "proverbs": [
+      "Energy flows where intention directs.",
+      "The beginning of action is the seed of success."
+    ],
+    "verses": [
+      "Obara Ogbe teaches: Channel your energy wisely to start new journeys.",
+      "The fire of initiative lights the way."
+    ]
+  },
+  {
+    "odu_id": 98,
+    "odu_name": "Obara Oyeku",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "11001111",
+    "meaning": "Strength through humility, transformation via introspection.",
+    "signature_marks": [
+      "II I I I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "True power humbles itself.",
+      "The calm river carves the deepest canyon."
+    ],
+    "verses": [
+      "Obara Oyeku says: Strength lies in quiet self-awareness.",
+      "Transform your spirit through humble reflection."
+    ]
+  },
+  {
+    "odu_id": 99,
+    "odu_name": "Obara Iwori",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Iwori",
+    "binary_code": "11010001",
+    "meaning": "Spiritual insight and dynamic change.",
+    "signature_marks": [
+      "II I I I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Insight guides the restless spirit.",
+      "Change unveils hidden truths."
+    ],
+    "verses": [
+      "Obara Iwori teaches: Let spiritual insight lead your transformation.",
+      "The seeker unveils the unseen."
+    ]
+  },
+  {
+    "odu_id": 100,
+    "odu_name": "Obara Odi",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Odi",
+    "binary_code": "11010110",
+    "meaning": "Protection amidst change, strength with boundaries.",
+    "signature_marks": [
+      "II I I I",
+      "I I II I"
+    ],
+    "proverbs": [
+      "A strong wall safeguards the dancing fire.",
+      "Boundaries preserve the flame of life."
+    ],
+    "verses": [
+      "Obara Odi counsels: Protect your essence while embracing transformation.",
+      "Strength grows in measured freedom."
+    ]
+  },
+  {
+    "odu_id": 101,
+    "odu_name": "Obara Irosun",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Irosun",
+    "binary_code": "11011000",
+    "meaning": "Healing energy and ancestral strength.",
+    "signature_marks": [
+      "II I I I",
+      "I II II II"
+    ],
+    "proverbs": [
+      "Healing comes on the wings of strength.",
+      "The ancestors’ power heals the present."
+    ],
+    "verses": [
+      "Obara Irosun says: Let ancestral energy guide your healing.",
+      "Energy rooted in tradition restores balance."
+    ]
+  },
+  {
+    "odu_id": 102,
+    "odu_name": "Obara Owonrin",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "11011101",
+    "meaning": "Sudden shifts fueled by dynamic power.",
+    "signature_marks": [
+      "II I I I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "The thunderstorm awakens the dormant.",
+      "Power moves swiftly and without warning."
+    ],
+    "verses": [
+      "Obara Owonrin reveals: Crisis is the forge of dynamic strength.",
+      "Let sudden change shape your destiny."
+    ]
+  },
+  {
+    "odu_id": 103,
+    "odu_name": "Obara Obara",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Obara",
+    "binary_code": "11011110",
+    "meaning": "Inner strength and the spirit of resilience.",
+    "signature_marks": [
+      "II I I I",
+      "II I I I"
+    ],
+    "proverbs": [
+      "The spirit’s flame never fades.",
+      "Strength emerges from within."
+    ],
+    "verses": [
+      "Obara Obara says: Cultivate inner power to overcome outer trials.",
+      "Resilience is the heart’s true strength."
+    ]
+  },
+  {
+    "odu_id": 104,
+    "odu_name": "Obara Okanran",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Okanran",
+    "binary_code": "11011111",
+    "meaning": "Caution amidst upheaval, maintaining balance.",
+    "signature_marks": [
+      "II I I I",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Balance steadies the rocking ship.",
+      "Caution tempers the fierce spirit."
+    ],
+    "verses": [
+      "Obara Okanran counsels: Hold your center in chaos.",
+      "Wise steps prevent falls."
+    ]
+  },
+  {
+    "odu_id": 105,
+    "odu_name": "Obara Ogunda",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "11100001",
+    "meaning": "Strength to remove obstacles on the path.",
+    "signature_marks": [
+      "II I I I",
+      "I I II II"
+    ],
+    "proverbs": [
+      "Strength clears the road ahead.",
+      "Barriers crumble under firm resolve."
+    ],
+    "verses": [
+      "Obara Ogunda teaches: Harness strength to overcome all obstructions.",
+      "Let resolve be your weapon."
+    ]
+  },
+  {
+    "odu_id": 106,
+    "odu_name": "Obara Osa",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Osa",
+    "binary_code": "11100011",
+    "meaning": "Navigating hidden dangers with resolve.",
+    "signature_marks": [
+      "II I I I",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Awareness reveals hidden traps.",
+      "Resolve sees through the shadows."
+    ],
+    "verses": [
+      "Obara Osa advises: Move forward with eyes wide open.",
+      "Strength grows by recognizing unseen challenges."
+    ]
+  },
+  {
+    "odu_id": 107,
+    "odu_name": "Obara Ika",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Ika",
+    "binary_code": "11100100",
+    "meaning": "Discipline fuels enduring strength.",
+    "signature_marks": [
+      "II I I I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline sharpens the sword of strength.",
+      "Endurance follows self-control."
+    ],
+    "verses": [
+      "Obara Ika says: Mastery of self leads to true power.",
+      "Discipline is the root of lasting success."
+    ]
+  },
+  {
+    "odu_id": 108,
+    "odu_name": "Obara Oturupón",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "11101001",
+    "meaning": "Renewal through powerful ancestral force.",
+    "signature_marks": [
+      "II I I I",
+      "II II I I"
+    ],
+    "proverbs": [
+      "The old gives way to the new.",
+      "Ancestral power renews the spirit."
+    ],
+    "verses": [
+      "Obara Oturupón states: Embrace renewal through ancestral blessing.",
+      "Transformation is eternally fresh."
+    ]
+  },
+  {
+    "odu_id": 109,
+    "odu_name": "Obara Otura",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Otura",
+    "binary_code": "11101011",
+    "meaning": "Healing power guiding spiritual transformation.",
+    "signature_marks": [
+      "II I I I",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Healing flows where the spirit leads.",
+      "Transformation is nurtured by care."
+    ],
+    "verses": [
+      "Obara Otura teaches: Let your soul be healed to grow stronger.",
+      "Spirit guides us to wholeness."
+    ]
+  },
+  {
+    "odu_id": 110,
+    "odu_name": "Obara Irete",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Irete",
+    "binary_code": "11101100",
+    "meaning": "Prosperity balanced with strength.",
+    "signature_marks": [
+      "II I I I",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Strength sustains prosperity.",
+      "Balance is the foundation of abundance."
+    ],
+    "verses": [
+      "Obara Irete says: Prosper through strength and humility.",
+      "Abundance grows in balanced hands."
+    ]
+  },
+  {
+    "odu_id": 111,
+    "odu_name": "Obara Ose",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Ose",
+    "binary_code": "11101110",
+    "meaning": "Cleansing and renewal through spiritual power.",
+    "signature_marks": [
+      "II I I I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Cleansing clears the way to renewal.",
+      "Let go to grow."
+    ],
+    "verses": [
+      "Obara Ose teaches: Purify to begin anew.",
+      "Renewal is the spirit’s gift."
+    ]
+  },
+  {
+    "odu_id": 112,
+    "odu_name": "Obara Ofun",
+    "parent_odu_1": "Obara",
+    "parent_odu_2": "Ofun",
+    "binary_code": "11101111",
+    "meaning": "Clarity and realization through empowered action.",
+    "signature_marks": [
+      "II I I I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clarity empowers action.",
+      "Enlightenment leads to fulfillment."
+    ],
+    "verses": [
+      "Obara Ofun affirms: Let your enlightened actions fulfill your destiny.",
+      "True power arises from clear vision."
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 1,
+    "odu_name": "Ogbe Ogbe",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "00000000",
+    "meaning": "Beginnings, openness, expansion, truth",
+    "signature_marks": [
+      "I I I I",
+      "I I I I"
+    ],
+    "proverbs": [
+      "The path is clear for him who walks in truth.",
+      "As the dawn brings light, so Ogbe brings opportunity."
+    ],
+    "verses": [
+      "Ogbe Ogbe says: When hope is planted, it grows into greatness.",
+      "Let the journey begin with pure intentions and wisdom."
+    ]
+  },
+  {
+    "odu_id": 2,
+    "odu_name": "Ogbe Oyeku",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "00001111",
+    "meaning": "Transition, duality, new direction",
+    "signature_marks": [
+      "I I I I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Light and shadow dance together in the palm of destiny.",
+      "The bridge between worlds is both seen and unseen."
+    ],
+    "verses": [
+      "Ogbe Oyeku teaches: Balance the seen with the unseen, and all will be well.",
+      "He who knows both sides of the coin is truly wise."
+    ]
+  },
+  {
+    "odu_id": 3,
+    "odu_name": "Ogbe Iwori",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Iwori",
+    "binary_code": "00010001",
+    "meaning": "Discovery, emergence of truth",
+    "signature_marks": [
+      "I I I I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Out of darkness, wisdom is born.",
+      "When the seed splits, the sprout finds light."
+    ],
+    "verses": [
+      "Ogbe Iwori speaks: In patience, the truth will reveal itself.",
+      "Let your search be guided by the ancestors’ light."
+    ]
+  },
+  {
+    "odu_id": 4,
+    "odu_name": "Ogbe Odi",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Odi",
+    "binary_code": "00010110",
+    "meaning": "Patience, boundary, perseverance",
+    "signature_marks": [
+      "I I I I",
+      "I I II I"
+    ],
+    "proverbs": [
+      "A wall may slow the journey, but cannot end it.",
+      "Patience fills the calabash of fortune."
+    ],
+    "verses": [
+      "Ogbe Odi warns: Where there is an obstacle, wisdom finds a way.",
+      "Do not force open the door that patience can unlock."
+    ]
+  },
+  {
+    "odu_id": 5,
+    "odu_name": "Ogbe Irosun",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Irosun",
+    "binary_code": "00011000",
+    "meaning": "Reflection, experience, learning from the past",
+    "signature_marks": [
+      "I I I I",
+      "I II II II"
+    ],
+    "proverbs": [
+      "He who ignores his shadow stumbles at noon.",
+      "Experience is the teacher no child can avoid."
+    ],
+    "verses": [
+      "Ogbe Irosun says: Wisdom shines through remembered pain.",
+      "Turn and learn from the footprints behind you."
+    ]
+  },
+  {
+    "odu_id": 6,
+    "odu_name": "Ogbe Owonrin",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "00011101",
+    "meaning": "Change, unpredictability, opportunity in chaos",
+    "signature_marks": [
+      "I I I I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "In the whirlwind, opportunity hides.",
+      "Only the flexible branch survives the storm."
+    ],
+    "verses": [
+      "Ogbe Owonrin advises: Be like water—adapt to every turn.",
+      "Let not surprise unsettle your root."
+    ]
+  },
+  {
+    "odu_id": 7,
+    "odu_name": "Ogbe Obara",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Obara",
+    "binary_code": "00011110",
+    "meaning": "Communication, leadership, energy",
+    "signature_marks": [
+      "I I I I",
+      "II I I I"
+    ],
+    "proverbs": [
+      "A wise word can move mountains.",
+      "Speak so that your children will remember."
+    ],
+    "verses": [
+      "Ogbe Obara says: Lead with compassion and listen more than you speak.",
+      "Let your words build, not break."
+    ]
+  },
+  {
+    "odu_id": 8,
+    "odu_name": "Ogbe Okanran",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Okanran",
+    "binary_code": "00011111",
+    "meaning": "Struggle, reversal, unexpected challenge",
+    "signature_marks": [
+      "I I I I",
+      "II II II I"
+    ],
+    "proverbs": [
+      "A river bends but does not stop.",
+      "Challenge is the anvil upon which strength is forged."
+    ],
+    "verses": [
+      "Ogbe Okanran teaches: Let hardship deepen your roots.",
+      "Walk with resolve, though the path be rough."
+    ]
+  },
+  {
+    "odu_id": 9,
+    "odu_name": "Ogbe Ogunda",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "00100001",
+    "meaning": "Determination, innovation, breaking new ground",
+    "signature_marks": [
+      "I I I I",
+      "I I II II"
+    ],
+    "proverbs": [
+      "Innovation is born where old ways fail.",
+      "Determination splits the hardest wood."
+    ],
+    "verses": [
+      "Ogbe Ogunda guides: Ordinary actions make extraordinary results.",
+      "Persist where others hesitate."
+    ]
+  },
+  {
+    "odu_id": 10,
+    "odu_name": "Ogbe Osa",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Osa",
+    "binary_code": "00100011",
+    "meaning": "Hidden influences, secrets, invisible guidance",
+    "signature_marks": [
+      "I I I I",
+      "II I II I"
+    ],
+    "proverbs": [
+      "What the eyes see, the heart must judge.",
+      "Many waters flow beneath the surface."
+    ],
+    "verses": [
+      "Ogbe Osa counsels: Beware of what is not spoken.",
+      "Trust your intuition when logic fails."
+    ]
+  },
+  {
+    "odu_id": 11,
+    "odu_name": "Ogbe Ika",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Ika",
+    "binary_code": "00100100",
+    "meaning": "Discipline, overcoming adversity, strong will",
+    "signature_marks": [
+      "I I I I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline is the key that unlocks the gate.",
+      "Strength is not just of the hand, but of the heart."
+    ],
+    "verses": [
+      "Ogbe Ika says: What you control inside, nothing outside can shake.",
+      "Let self-mastery be your shield."
+    ]
+  },
+  {
+    "odu_id": 12,
+    "odu_name": "Ogbe Oturupón",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "00101001",
+    "meaning": "Renewal, cycles, transformation",
+    "signature_marks": [
+      "I I I I",
+      "II II I I"
+    ],
+    "proverbs": [
+      "After the dry season comes the rain.",
+      "Every ending is a beginning waiting to unfold."
+    ],
+    "verses": [
+      "Ogbe Oturupón states: Embrace transformation as nature embraces the seasons.",
+      "Change arrives on the wings of renewal."
+    ]
+  },
+  {
+    "odu_id": 13,
+    "odu_name": "Ogbe Otura",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Otura",
+    "binary_code": "00101011",
+    "meaning": "Guidance, spiritual trust, faith",
+    "signature_marks": [
+      "I I I I",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Trust guides where eyes cannot see.",
+      "To be led is not to be lost."
+    ],
+    "verses": [
+      "Ogbe Otura advises: Put your faith in the wisdom of your ancestors.",
+      "The spirit leads where feet cannot tread."
+    ]
+  },
+  {
+    "odu_id": 14,
+    "odu_name": "Ogbe Irete",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Irete",
+    "binary_code": "00101100",
+    "meaning": "Prosperity, responsibility, balancing abundance",
+    "signature_marks": [
+      "I I I I",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Riches are measured not just in wealth, but in wisdom.",
+      "With abundance comes accountability."
+    ],
+    "verses": [
+      "Ogbe Irete teaches: Prosperity grows where wise hands tend.",
+      "Share your fortune and multiply it."
+    ]
+  },
+  {
+    "odu_id": 15,
+    "odu_name": "Ogbe Ose",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Ose",
+    "binary_code": "00101110",
+    "meaning": "Cleansing, healing, restoration",
+    "signature_marks": [
+      "I I I I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Water washes away what the hand cannot.",
+      "Healing is the root of new life."
+    ],
+    "verses": [
+      "Ogbe Ose says: Let the old be washed away for the new to arise.",
+      "Healing begins when peace enters the heart."
+    ]
+  },
+  {
+    "odu_id": 16,
+    "odu_name": "Ogbe Ofun",
+    "parent_odu_1": "Ogbe",
+    "parent_odu_2": "Ofun",
+    "binary_code": "00101111",
+    "meaning": "Clarity, achievement, destiny fulfilled",
+    "signature_marks": [
+      "I I I I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "The clear path brings swift arrival.",
+      "He who sees far travels safely."
+    ],
+    "verses": [
+      "Ogbe Ofun affirms: Fate is in your hands—walk boldly.",
+      "Destiny rewards the patient and the pure."
+    ]
+  }
+]

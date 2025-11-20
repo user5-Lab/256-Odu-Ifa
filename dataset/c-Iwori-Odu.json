@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 33,
+    "odu_name": "Iwori Ogbe",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "01000000",
+    "meaning": "Clarity through introspection, overcoming hidden obstacles.",
+    "signature_marks": [
+      "I II I I",
+      "I I I I"
+    ],
+    "proverbs": [
+      "The journey within reveals the path ahead.",
+      "What is hidden can be found through patience."
+    ],
+    "verses": [
+      "Iwori Ogbe teaches: Look inside to find solutions for your outer world.",
+      "Ifá says: The wise one searches their heart when all else is dark."
+    ]
+  },
+  {
+    "odu_id": 34,
+    "odu_name": "Iwori Oyeku",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "01001111",
+    "meaning": "Facing the unknown, patience in adversity.",
+    "signature_marks": [
+      "I II I I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Patience is the bridge across darkness.",
+      "Face the storm to find the rainbow."
+    ],
+    "verses": [
+      "Iwori Oyeku counsels: Persistence in trials brings powerful rewards.",
+      "Ifá says: Fortitude turns obstacles into blessings."
+    ]
+  },
+  {
+    "odu_id": 35,
+    "odu_name": "Iwori Iwori",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Iwori",
+    "binary_code": "01010001",
+    "meaning": "Duality, intellectual pursuit, fire of transformation.",
+    "signature_marks": [
+      "I II I I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Fire tests the strength of the iron.",
+      "Reflection polishes the wisdom of the mind."
+    ],
+    "verses": [
+      "Iwori Iwori declares: Let your mind be as a flame, burning away ignorance.",
+      "Transformation arises from thoughtful challenge."
+    ]
+  },
+  {
+    "odu_id": 36,
+    "odu_name": "Iwori Odi",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Odi",
+    "binary_code": "01010110",
+    "meaning": "Boundaries, discipline, caution advised.",
+    "signature_marks": [
+      "I II I I",
+      "I I II I"
+    ],
+    "proverbs": [
+      "The wise person builds the right walls and opens the right doors.",
+      "Caution preserves fortune, haste brings regret."
+    ],
+    "verses": [
+      "Iwori Odi instructs: Set boundaries not as barriers, but as guides.",
+      "Let every step be measured when the path is uncertain."
+    ]
+  },
+  {
+    "odu_id": 37,
+    "odu_name": "Iwori Irosun",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Irosun",
+    "binary_code": "01011000",
+    "meaning": "Learning from change, experience brings wisdom.",
+    "signature_marks": [
+      "I II I I",
+      "I II II II"
+    ],
+    "proverbs": [
+      "A river that changes course finds new destinations.",
+      "The past is a lantern for the present."
+    ],
+    "verses": [
+      "Iwori Irosun says: Reflect on each lesson and the future will shine brighter.",
+      "Only the humble learn from their mistakes."
+    ]
+  },
+  {
+    "odu_id": 38,
+    "odu_name": "Iwori Owonrin",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "01011101",
+    "meaning": "Sudden change, creative adaptation.",
+    "signature_marks": [
+      "I II I I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "The bamboo bends; it does not break.",
+      "Creativity is the daughter of necessity."
+    ],
+    "verses": [
+      "Iwori Owonrin reveals: The flexible mind is never trapped.",
+      "Let surprise inspire, not unsettle."
+    ]
+  },
+  {
+    "odu_id": 39,
+    "odu_name": "Iwori Obara",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Obara",
+    "binary_code": "01011110",
+    "meaning": "Leadership through wisdom, powerful speech.",
+    "signature_marks": [
+      "I II I I",
+      "II I I I"
+    ],
+    "proverbs": [
+      "A wise leader listens more than speaks.",
+      "Truth is stronger than noise."
+    ],
+    "verses": [
+      "Iwori Obara speaks: Command your world with wisdom, not just words.",
+      "Let your speech bring peace, not strife."
+    ]
+  },
+  {
+    "odu_id": 40,
+    "odu_name": "Iwori Okanran",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Okanran",
+    "binary_code": "01011111",
+    "meaning": "Difficulties that reveal true strength.",
+    "signature_marks": [
+      "I II I I",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Strength is proved in hardship.",
+      "Mountains are climbed step by step."
+    ],
+    "verses": [
+      "Iwori Okanran tells: Embrace challenge as a friend and teacher.",
+      "True character is unmasked in difficulty."
+    ]
+  },
+  {
+    "odu_id": 41,
+    "odu_name": "Iwori Ogunda",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "01100001",
+    "meaning": "Innovation, overcoming adversity.",
+    "signature_marks": [
+      "I II I I",
+      "I I II II"
+    ],
+    "proverbs": [
+      "Innovation opens doors where none existed.",
+      "Every problem has many solutions."
+    ],
+    "verses": [
+      "Iwori Ogunda says: Encourage new thinking to reach new lands.",
+      "Let adversity spark your imagination."
+    ]
+  },
+  {
+    "odu_id": 42,
+    "odu_name": "Iwori Osa",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Osa",
+    "binary_code": "01100011",
+    "meaning": "Secrets, moving wisely in uncertainty.",
+    "signature_marks": [
+      "I II I I",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Eyes wide open in the dark.",
+      "A silent companion sees more."
+    ],
+    "verses": [
+      "Iwori Osa instructs: Walk quietly, plan deeply.",
+      "Let wisdom be your shield where secrets abound."
+    ]
+  },
+  {
+    "odu_id": 43,
+    "odu_name": "Iwori Ika",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Ika",
+    "binary_code": "01100100",
+    "meaning": "Discipline for lasting achievement.",
+    "signature_marks": [
+      "I II I I",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline is the seed of success.",
+      "Well-tended gardens bear the sweetest fruit."
+    ],
+    "verses": [
+      "Iwori Ika says: Hold yourself to high standards.",
+      "Discipline brings the harvest you seek."
+    ]
+  },
+  {
+    "odu_id": 44,
+    "odu_name": "Iwori Oturupón",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "01101001",
+    "meaning": "Cycles, return, renewal.",
+    "signature_marks": [
+      "I II I I",
+      "II II I I"
+    ],
+    "proverbs": [
+      "What leaves will return anew.",
+      "Rain nourishes again and again."
+    ],
+    "verses": [
+      "Iwori Oturupón teaches: Life’s cycles are endless; accept each as a teacher.",
+      "Renewal comes from embracing the inevitable."
+    ]
+  },
+  {
+    "odu_id": 45,
+    "odu_name": "Iwori Otura",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Otura",
+    "binary_code": "01101011",
+    "meaning": "Guidance, trust, walking in faith.",
+    "signature_marks": [
+      "I II I I",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Trust lights the unseen way.",
+      "The faithful foot never falters."
+    ],
+    "verses": [
+      "Iwori Otura says: Let faith guide your footsteps.",
+      "When trust leads, fear flees."
+    ]
+  },
+  {
+    "odu_id": 46,
+    "odu_name": "Iwori Irete",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Irete",
+    "binary_code": "01101100",
+    "meaning": "Responsibility in prosperity.",
+    "signature_marks": [
+      "I II I I",
+      "II I I II"
+    ],
+    "proverbs": [
+      "Share your harvest, and it grows.",
+      "Wealth is a tool, not an idol."
+    ],
+    "verses": [
+      "Iwori Irete offers: True prosperity is shared.",
+      "Responsibility is the crown of abundance."
+    ]
+  },
+  {
+    "odu_id": 47,
+    "odu_name": "Iwori Ose",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Ose",
+    "binary_code": "01101110",
+    "meaning": "Healing after hardship.",
+    "signature_marks": [
+      "I II I I",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Healing is nature’s answer to pain.",
+      "From broken earth sprouts green."
+    ],
+    "verses": [
+      "Iwori Ose says: Recovery blooms in patient soil.",
+      "After pain, let healing flourish."
+    ]
+  },
+  {
+    "odu_id": 48,
+    "odu_name": "Iwori Ofun",
+    "parent_odu_1": "Iwori",
+    "parent_odu_2": "Ofun",
+    "binary_code": "01101111",
+    "meaning": "Wisdom fulfilled, clarity attained.",
+    "signature_marks": [
+      "I II I I",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clarity rewards the diligent mind.",
+      "Complete knowledge lights all paths."
+    ],
+    "verses": [
+      "Iwori Ofun affirms: Seek completion in wisdom.",
+      "Let fulfillment be drawn from understanding."
+    ]
+  }
+]

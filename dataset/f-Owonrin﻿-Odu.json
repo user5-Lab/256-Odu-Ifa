@@ -1,0 +1,322 @@
+[
+  {
+    "odu_id": 81,
+    "odu_name": "Owonrin Ogbe",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Ogbe",
+    "binary_code": "01000000",
+    "meaning": "New beginnings through change and adaptability.",
+    "signature_marks": [
+      "I II I II",
+      "I I I I"
+    ],
+    "proverbs": [
+      "Change is the only constant in life.",
+      "The wind shapes the tree, but the tree stands firm."
+    ],
+    "verses": [
+      "Owonrin Ogbe teaches: Embrace transformation with open arms and a steady heart.",
+      "The resilient soul flourishes amidst the winds of change."
+    ]
+  },
+  {
+    "odu_id": 82,
+    "odu_name": "Owonrin Oyeku",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Oyeku",
+    "binary_code": "01001111",
+    "meaning": "Transformation through darkness leading to spiritual growth.",
+    "signature_marks": [
+      "I II I II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "After night comes the dawn full of possibilities.",
+      "In darkness, hidden truths come to light."
+    ],
+    "verses": [
+      "Owonrin Oyeku says: Endure the night to welcome the brightness of wisdom.",
+      "Spiritual rebirth grows from the seed of darkness."
+    ]
+  },
+  {
+    "odu_id": 83,
+    "odu_name": "Owonrin Iwori",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Iwori",
+    "binary_code": "01010001",
+    "meaning": "Reflective transformation through insight and wisdom.",
+    "signature_marks": [
+      "I II I II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "The flame of knowledge illuminates new paths.",
+      "Wisdom comes from looking deeply within."
+    ],
+    "verses": [
+      "Owonrin Iwori teaches: Seek clarity in change and strength in reflection.",
+      "Let your insight be the compass through transformation."
+    ]
+  },
+  {
+    "odu_id": 84,
+    "odu_name": "Owonrin Odi",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Odi",
+    "binary_code": "01010110",
+    "meaning": "Patience and protection within upheaval.",
+    "signature_marks": [
+      "I II I II",
+      "I I II I"
+    ],
+    "proverbs": [
+      "Patience is the fortress in the storm.",
+      "Steady hands weather the fiercest winds."
+    ],
+    "verses": [
+      "Owonrin Odi counsels: Guard your spirit as you navigate the tides of change.",
+      "Strength rests in calm perseverance."
+    ]
+  },
+  {
+    "odu_id": 85,
+    "odu_name": "Owonrin Irosun",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Irosun",
+    "binary_code": "01011000",
+    "meaning": "Healing and cleansing through transformation.",
+    "signature_marks": [
+      "I II I II",
+      "I II II II"
+    ],
+    "proverbs": [
+      "Water cleanses where fire can’t reach.",
+      "Healing flows with patience and faith."
+    ],
+    "verses": [
+      "Owonrin Irosun says: Let the past wash away to reveal new life.",
+      "Cleansing renews the soul’s strength."
+    ]
+  },
+  {
+    "odu_id": 86,
+    "odu_name": "Owonrin Owonrin",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Owonrin",
+    "binary_code": "01011101",
+    "meaning": "Core transformation emphasizing adaptability and resilience.",
+    "signature_marks": [
+      "I II I II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "The wind may bend the tree, but it does not break it.",
+      "Change is the breath of life."
+    ],
+    "verses": [
+      "Owonrin Owonrin teaches: Be flexible and strong through every transformation.",
+      "Resilience grows where adaptability thrives."
+    ]
+  },
+  {
+    "odu_id": 87,
+    "odu_name": "Owonrin Obara",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Obara",
+    "binary_code": "01011110",
+    "meaning": "Energetic action within change.",
+    "signature_marks": [
+      "I II I II",
+      "II I I I"
+    ],
+    "proverbs": [
+      "Action fuels transformation.",
+      "Energy directs the winds of change."
+    ],
+    "verses": [
+      "Owonrin Obara encourages: Channel your energy wisely through transitions.",
+      "Dynamic movement creates new opportunities."
+    ]
+  },
+  {
+    "odu_id": 88,
+    "odu_name": "Owonrin Okanran",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Okanran",
+    "binary_code": "01011111",
+    "meaning": "Facing challenges during periods of change.",
+    "signature_marks": [
+      "I II I II",
+      "II II II I"
+    ],
+    "proverbs": [
+      "Challenges sharpen the sword of resilience.",
+      "Endurance is born in adversity."
+    ],
+    "verses": [
+      "Owonrin Okanran counsels: Let hardship become the ground for growth.",
+      "True strength is forged in the fire of trials."
+    ]
+  },
+  {
+    "odu_id": 89,
+    "odu_name": "Owonrin Ogunda",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Ogunda",
+    "binary_code": "01100001",
+    "meaning": "Overcoming obstacles through wisdom and perseverance.",
+    "signature_marks": [
+      "I II I II",
+      "I I II II"
+    ],
+    "proverbs": [
+      "Persistence breaks all walls.",
+      "Wisdom is the key to unlock barriers."
+    ],
+    "verses": [
+      "Owonrin Ogunda guides: Keep pushing forward despite difficulties.",
+      "Cleverness overcomes the toughest challenges."
+    ]
+  },
+  {
+    "odu_id": 90,
+    "odu_name": "Owonrin Osa",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Osa",
+    "binary_code": "01100011",
+    "meaning": "Navigating hidden dangers and unknown forces.",
+    "signature_marks": [
+      "I II I II",
+      "II I II I"
+    ],
+    "proverbs": [
+      "Not all dangers announce their coming.",
+      "Wisdom listens in silence."
+    ],
+    "verses": [
+      "Owonrin Osa advises: Be alert to unseen challenges.",
+      "Perceptiveness is your shield."
+    ]
+  },
+  {
+    "odu_id": 91,
+    "odu_name": "Owonrin Ika",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Ika",
+    "binary_code": "01100100",
+    "meaning": "Discipline and control during uncertain times.",
+    "signature_marks": [
+      "I II I II",
+      "I II I I"
+    ],
+    "proverbs": [
+      "Discipline tames the wildest storm.",
+      "Control guides the uncertain path."
+    ],
+    "verses": [
+      "Owonrin Ika teaches: Self-mastery leads through chaos.",
+      "Order begins within."
+    ]
+  },
+  {
+    "odu_id": 92,
+    "odu_name": "Owonrin Oturupón",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Oturupón",
+    "binary_code": "01101001",
+    "meaning": "Renewal and cycles of transformation.",
+    "signature_marks": [
+      "I II I II",
+      "II II I I"
+    ],
+    "proverbs": [
+      "After winter comes spring.",
+      "Cycles renew the weary soul."
+    ],
+    "verses": [
+      "Owonrin Oturupón states: Embrace the eternal cycle of growth and renewal.",
+      "Transformation is the pulse of life."
+    ]
+  },
+  {
+    "odu_id": 93,
+    "odu_name": "Owonrin Otura",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Otura",
+    "binary_code": "01101011",
+    "meaning": "Spiritual guidance through change.",
+    "signature_marks": [
+      "I II I II",
+      "I I I II"
+    ],
+    "proverbs": [
+      "Guidance lights the darkest path.",
+      "Spirit leads where eyes cannot see."
+    ],
+    "verses": [
+      "Owonrin Otura encourages: Trust the unseen hand guiding your journey.",
+      "Faith reveals the way."
+    ]
+  },
+  {
+    "odu_id": 94,
+    "odu_name": "Owonrin Irete",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Irete",
+    "binary_code": "01101100",
+    "meaning": "Balance of prosperity with spiritual insight.",
+    "signature_marks": [
+      "I II I II",
+      "II I I II"
+    ],
+    "proverbs": [
+      "True wealth lies in balance.",
+      "Prosperity follows respect and humility."
+    ],
+    "verses": [
+      "Owonrin Irete says: Let prosperity be the fruit of spiritual harmony.",
+      "Share your blessings to increase them."
+    ]
+  },
+  {
+    "odu_id": 95,
+    "odu_name": "Owonrin Ose",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Ose",
+    "binary_code": "01101110",
+    "meaning": "Healing and cleansing amidst change.",
+    "signature_marks": [
+      "I II I II",
+      "I II I II"
+    ],
+    "proverbs": [
+      "Healing follows the cleansing rain.",
+      "Let go of the old to welcome the new."
+    ],
+    "verses": [
+      "Owonrin Ose teaches: Purify your spirit to embrace the new phases of life.",
+      "Healing is the foundation of transformation."
+    ]
+  },
+  {
+    "odu_id": 96,
+    "odu_name": "Owonrin Ofun",
+    "parent_odu_1": "Owonrin",
+    "parent_odu_2": "Ofun",
+    "binary_code": "01101111",
+    "meaning": "Clarity and fulfillment through adaptable wisdom.",
+    "signature_marks": [
+      "I II I II",
+      "II II II II"
+    ],
+    "proverbs": [
+      "Clarity shines brightest through the storm.",
+      "Fulfillment grows in flexible hearts."
+    ],
+    "verses": [
+      "Owonrin Ofun affirms: Let your adaptable wisdom guide you to destiny’s door.",
+      "The clear mind embraces change and thrives."
+    ]
+  }
+]
