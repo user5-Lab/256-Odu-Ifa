@@ -1,0 +1,1426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Ifá Odu 16 (search terms)</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+
+<style>
+:root {
+  --bg: #000000;
+  --panel: #0a0a0f;
+  --panel2: #111119;
+  --gold: #ffd700;
+  --gold2: #c7a400;
+  --text: #eaeaea;
+  --muted: #888;
+  --danger: #ff4444;
+  --ok: #44ff44;
+  --highlight: #4a4a00;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* HEADER */
+.header {
+  height: 50px;
+  background: var(--panel2);
+  border-bottom: 1px solid var(--gold);
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  gap: 10px;
+  position: relative;
+  z-index: 10000;
+}
+
+.hamburger {
+  width: 32px;
+  height: 32px;
+  border: 1px solid var(--gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.hamburger div {
+  width: 18px;
+  height: 2px;
+  background: var(--gold);
+  position: relative;
+}
+.hamburger div::before,
+.hamburger div::after {
+  content: "";
+  width: 18px;
+  height: 2px;
+  background: var(--gold);
+  position: absolute;
+  left: 0;
+}
+.hamburger div::before { top: -6px; }
+.hamburger div::after { top: 6px; }
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--gold);
+}
+
+.status-indicator {
+  margin-left: auto;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: var(--muted);
+}
+
+.status-indicator.active {
+  background-color: var(--ok);
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+
+/* DRAWERS */
+.drawer {
+  position: fixed;
+  top: 50px;
+  bottom: 0;
+  width: 260px;
+  background: var(--panel);
+  border-right: 1px solid var(--gold);
+  transform: translateX(-100%);
+  transition: transform 0.3s ease;
+  overflow-y: auto;
+  padding: 12px;
+  z-index: 9999;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.5);
+}
+
+/* Right drawer modifier */
+.drawer-right {
+  left: auto;
+  right: 0;
+  border-right: none;
+  border-left: 1px solid var(--gold);
+  transform: translateX(100%);
+  box-shadow: -2px 0 5px rgba(0,0,0,0.5);
+}
+
+.drawer.open {
+  transform: translateX(0);
+}
+
+/* Mobile drawer */
+@media (max-width: 768px) {
+  .drawer {
+    width: 100%;
+    transform: translateX(-100%);
+  }
+  .drawer-right {
+    transform: translateX(100%);
+  }
+  .drawer.open {
+    transform: translateX(0);
+  }
+}
+
+/* MAIN WRAPPER */
+.wrapper {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: margin-left 0.3s ease, margin-right 0.3s ease, transform 0.3s ease;
+}
+
+.wrapper.shift {
+  margin-left: 260px;
+}
+
+.wrapper.shift-right {
+  margin-right: 260px;
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    transition: transform 0.3s ease;
+  }
+  .wrapper.shift,
+  .wrapper.shift-right {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+/* MAIN CONTENT (search canvas) */
+.main {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px 12px 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* FILE TREE */
+.file-tree {
+  background: var(--panel2);
+  border: 1px solid var(--gold2);
+  border-radius: 10px;
+  padding: 10px;
+  height: 25vh;
+  overflow: auto;
+}
+
+.folder, .file {
+  padding: 5px 10px;
+  border-radius: 6px;
+  margin: 3px 0;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.folder:hover, .file:hover {
+  background: #1a1a22;
+}
+.folder { color: var(--gold); font-weight: bold; }
+.file { color: var(--text); }
+
+.file-size {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* EDITOR */
+.editor {
+  background: var(--panel2);
+  border: 1px solid var(--gold2);
+  border-radius: 10px;
+  padding: 10px;
+  height: 25vh;
+  overflow: auto;
+  white-space: pre;
+}
+
+/* BUTTONS */
+button {
+  background: var(--panel2);
+  border: 1px solid var(--gold2);
+  padding: 10px;
+  color: var(--text);
+  border-radius: 6px;
+  margin: 4px 0;
+  width: 100%;
+  font-size: 15px;
+  cursor: pointer;
+}
+button:hover {
+  background: #1a1a22;
+}
+
+input {
+  background: var(--panel);
+  border: 1px solid var(--gold2);
+  color: var(--text);
+  padding: 10px;
+  width: 100%;
+  border-radius: 6px;
+  margin: 4px 0;
+}
+
+/* LOG */
+#activity {
+  font-size: 12px;
+  opacity: 0.85;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+/* MCTS Search Section (main search engine) */
+.mcts-container {
+  background: var(--panel2);
+  border: 1px solid var(--gold2);
+  border-radius: 16px;
+  padding: 16px 16px 20px;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 900px;
+  box-shadow: 0 0 25px rgba(0,0,0,0.6);
+  display: flex;
+  flex-direction: column;
+}
+
+.mcts-container h3 {
+  text-align: center;
+  margin: 4px 0 10px;
+  font-size: 20px;
+}
+
+/* search options above the box, subtle */
+.search-options {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-size: 13px;
+  flex-wrap: wrap;
+}
+
+.search-options label {
+  margin: 3px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.search-options input {
+  width: auto;
+  margin-right: 5px;
+}
+
+/* big centered search bar */
+.mcts-search-box {
+  display: flex;
+  margin-bottom: 14px;
+  align-items: center;
+}
+
+.mcts-search-box input {
+  flex: 1;
+  margin-right: 8px;
+  font-size: 18px;
+  padding: 12px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--gold2);
+}
+
+.mcts-search-box button {
+  width: auto;
+  padding: 11px 18px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 999px;
+}
+
+/* "results" section like normal engine */
+.search-results {
+  margin-top: 6px;
+}
+
+.search-result-item {
+  background: var(--panel);
+  border: 1px solid var(--gold2);
+  border-radius: 10px;
+  padding: 10px 12px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.search-result-item:hover {
+  background: #151521;
+  transform: translateY(-1px);
+}
+
+.search-result-file {
+  color: var(--gold);
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.search-result-content {
+  font-size: 14px;
+  white-space: pre-wrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.search-highlight {
+  background-color: var(--highlight);
+  padding: 1px 2px;
+  border-radius: 2px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .file-tree, .editor {
+    height: 30vh;
+  }
+  
+  .title {
+    font-size: 16px;
+  }
+
+  .mcts-container {
+    margin-top: 10px;
+    padding: 12px 10px 16px;
+    border-radius: 12px;
+  }
+
+  .mcts-search-box input {
+    font-size: 16px;
+    padding: 10px 14px;
+  }
+
+  .mcts-search-box button {
+    padding: 10px 14px;
+    font-size: 14px;
+  }
+}
+
+/* Overlay for mobile drawer */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 9998;
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .overlay.show {
+    display: block;
+  }
+}
+
+/* Debug info */
+.debug-info {
+  background: var(--panel);
+  border: 1px solid var(--gold2);
+  border-radius: 6px;
+  padding: 8px;
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* Status message */
+.status-message {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--panel2);
+  border: 1px solid var(--gold);
+  border-radius: 6px;
+  padding: 10px 20px;
+  color: var(--text);
+  z-index: 10001;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.status-message.show {
+  opacity: 1;
+}
+
+/* File preview */
+.file-preview {
+  background: var(--panel);
+  border: 1px solid var(--gold2);
+  border-radius: 6px;
+  padding: 8px;
+  margin-top: 8px;
+  max-height: 200px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  font-size: 12px;
+}
+
+/* Odu result styling */
+.odu-result {
+  border-left: 3px solid var(--gold);
+  padding-left: 10px;
+  margin-top: 10px;
+}
+
+.odu-title {
+  color: var(--gold);
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.odu-field {
+  margin-bottom: 5px;
+}
+
+.odu-field-label {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* Loading indicator */
+.loading {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top-color: var(--gold);
+  animation: spin 1s ease-in-out infinite;
+  margin-right: 10px;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div id="hamburger" class="hamburger"><div></div></div>
+  <div class="title">256 Odu Ifa Search (MCTS)</div>
+  <div id="status-indicator" class="status-indicator"></div>
+</div>
+
+<div id="overlay" class="overlay"></div>
+
+<!-- LEFT drawer: ops/settings/log -->
+<div id="drawer" class="drawer">
+
+  <h3 style="color:var(--gold); margin:10px 0;">File Operations</h3>
+  <button onclick="createFile()">+ New File</button>
+  <button onclick="createFolder()">+ New Folder</button>
+  <button onclick="deleteItem()">Delete</button>
+  <button onclick="renameItem()">Rename</button>
+  <button onclick="downloadItem()">Download</button>
+
+  <h3 style="color:var(--gold); margin:10px 0;">Upload</h3>
+  <input type="file" multiple id="upload" onchange="uploadFiles(this.files)">
+
+  <h3 style="color:var(--gold); margin:10px 0;">File Tree Search</h3>
+  <input id="search" placeholder="Search files..." oninput="refreshTree()">
+
+  <h3 style="color:var(--gold); margin:10px 0;">Settings</h3>
+  <button onclick="clearVFS()">Clear VFS</button>
+  <button onclick="refreshAll()">Refresh All</button>
+  <button onclick="debugSearch()">Debug Search</button>
+
+  <h3 style="color:var(--gold); margin:10px 0;">VFS Status</h3>
+  <div id="vfs-status" class="debug-info">Initializing...</div>
+
+  <h3 style="color:var(--gold); margin:10px 0;">Activity Log</h3>
+  <div id="activity"></div>
+
+</div>
+
+<!-- RIGHT drawer: file tree + editor (where results "take" the user) -->
+<div id="drawer-right" class="drawer drawer-right">
+  <h3 style="color:var(--gold); margin:10px 0;">Files & Editor</h3>
+  <button style="margin-top:4px;width:auto;padding:6px 10px;font-size:12px;display:inline-block" onclick="closeRightDrawer()">✕ Close</button>
+  <div id="tree" class="file-tree"></div>
+  <div style="height:8px;"></div>
+  <div id="editor" class="editor" contenteditable="true"></div>
+  <button onclick="saveEditor()">Save</button>
+</div>
+
+<div id="wrapper" class="wrapper">
+  <div class="main">
+
+    <!-- MAIN CANVAS: search & results only -->
+    <div id="mcts-container" class="mcts-container">
+      <h3 style="color:var(--gold); margin:10px 0;">Content Search</h3>
+      <div class="search-options">
+        <label>
+          <input type="checkbox" id="case-sensitive" onchange="performSearch()">
+          Case Sensitive
+        </label>
+        <label>
+          <input type="checkbox" id="whole-word" onchange="performSearch()">
+          Whole Word
+        </label>
+      </div>
+      <div class="mcts-search-box">
+        <input id="mcts-search" placeholder="Search any 256 Odu Ifa..." type="text" onkeydown="if(event.key==='Enter'){performSearch();}">
+        <button onclick="performSearch()">Search</button>
+      </div>
+      <div id="search-results" class="search-results"></div>
+    </div>
+
+  </div>
+</div>
+
+<div id="status-message" class="status-message"></div>
+
+<script>
+/********** DB **********/
+let db;
+let currentFile = null;
+let currentPath = "/";
+let drawerOpen = false;       // left drawer
+let rightDrawerOpen = false;  // right drawer
+let isMobile = window.innerWidth <= 768;
+let vfsReady = false;
+
+const drawerLeftEl = document.getElementById('drawer');
+const drawerRightEl = document.getElementById('drawer-right');
+const wrapperEl = document.getElementById('wrapper');
+const overlayEl = document.getElementById('overlay');
+const hamburgerEl = document.getElementById('hamburger');
+const editorEl = document.getElementById('editor');
+const treeEl = document.getElementById('tree');
+
+let req = indexedDB.open("ifa_vfs_db", 1);
+req.onupgradeneeded = e => {
+  let d = e.target.result;
+  let store = d.createObjectStore("files", { keyPath: "path" });
+  store.createIndex("path", "path", { unique: true });
+};
+req.onsuccess = e => {
+  db = e.target.result;
+  vfsReady = true;
+  updateStatus("VFS Ready");
+  refreshTree();
+  updateVFSStatus();
+  // Auto-populate with sample data if empty
+  checkAndPopulate();
+};
+req.onerror = e => {
+  updateStatus("VFS Error");
+  log("Error initializing VFS: " + e.target.error);
+};
+
+/******** UTILS ********/
+function tx(m="readonly"){ return db.transaction("files",m).objectStore("files"); }
+function log(x){ 
+  const activity = document.getElementById("activity");
+  activity.innerHTML += x+"<br>";
+  activity.scrollTop = activity.scrollHeight;
+}
+
+function updateStatus(message) {
+  const indicator = document.getElementById("status-indicator");
+  const statusMessage = document.getElementById("status-message");
+  
+  if (vfsReady) {
+    indicator.classList.add("active");
+  } else {
+    indicator.classList.remove("active");
+  }
+  
+  statusMessage.textContent = message;
+  statusMessage.classList.add("show");
+  
+  setTimeout(() => {
+    statusMessage.classList.remove("show");
+  }, 3000);
+}
+
+function updateVFSStatus() {
+  const statusDiv = document.getElementById("vfs-status");
+  let fileCount = 0;
+  let totalSize = 0;
+  
+  tx().openCursor().onsuccess = e => {
+    const cursor = e.target.result;
+    if (cursor) {
+      if (cursor.value.type === 'file') {
+        fileCount++;
+        totalSize += cursor.value.data ? cursor.value.data.length : 0;
+      }
+      cursor.continue();
+    } else {
+      statusDiv.innerHTML = `
+        Files: ${fileCount}<br>
+        Total Size: ${formatBytes(totalSize)}<br>
+        Status: ${vfsReady ? 'Ready' : 'Initializing...'}
+      `;
+    }
+  };
+}
+
+function formatBytes(bytes, decimals = 2) {
+  if (bytes === 0) return '0 Bytes';
+  const k = 1024;
+  const dm = decimals < 0 ? 0 : decimals;
+  const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+  const i = Math.floor(Math.log(bytes) / Math.log(k));
+  return parseFloat((bytes / Math.pow(k, i)).toFixed(dm)) + ' ' + sizes[i];
+}
+
+/******** OPS ********/
+async function createFolder(){
+  let name = prompt("Folder name?");
+  if(!name) return;
+  let p = currentPath + name + "/";
+  tx("readwrite").put({path:p,type:"folder"});
+  log("Created Folder: "+p);
+  refreshTree();
+  updateVFSStatus();
+  updateStatus("Folder created");
+}
+
+async function createFile(){
+  let name = prompt("File name?");
+  if(!name) return;
+  let p = currentPath + name;
+  tx("readwrite").put({path:p,type:"file",data:""});
+  log("Created File: "+p);
+  refreshTree();
+  updateVFSStatus();
+  updateStatus("File created");
+}
+
+async function deleteItem(){
+  if(!currentFile) return alert("Select file/folder");
+  tx("readwrite").delete(currentFile.path);
+  log("Deleted: "+currentFile.path);
+  currentFile=null;
+  editor.textContent="";
+  refreshTree();
+  updateVFSStatus();
+  updateStatus("Item deleted");
+}
+
+async function renameItem(){
+  if(!currentFile) return alert("Select item");
+  let newName = prompt("New name?");
+  if(!newName) return;
+
+  let newPath = currentPath + newName;
+  let data = await read(currentFile.path);
+  data.path = newPath;
+
+  let store = tx("readwrite");
+  store.delete(currentFile.path);
+  store.put(data);
+
+  log("Renamed to: "+newPath);
+  refreshTree();
+  updateVFSStatus();
+  updateStatus("Item renamed");
+}
+
+async function uploadFiles(files){
+  for(let f of files){
+    let text = await f.text();
+    let p = currentPath + f.name;
+    tx("readwrite").put({path:p,type:"file",data:text});
+    log("Uploaded: "+p);
+  }
+  refreshTree();
+  updateVFSStatus();
+  updateStatus(`${files.length} file(s) uploaded`);
+}
+
+function read(path){
+  return new Promise(res=>{
+    tx().get(path).onsuccess=e=>res(e.target.result);
+  });
+}
+
+function refreshTree(){
+  let out=[];
+  tx().openCursor().onsuccess=e=>{
+    let c=e.target.result;
+    if(c){ out.push(c.value); c.continue(); }
+    else renderTree(out);
+  };
+}
+
+function renderTree(list){
+  let q = search.value.toLowerCase();
+  tree.innerHTML="";
+
+  list.filter(i=>i.path.toLowerCase().includes(q)).forEach(i=>{
+    let d=document.createElement("div");
+    
+    let textSpan = document.createElement("span");
+    textSpan.textContent = i.path;
+    
+    let sizeSpan = document.createElement("span");
+    sizeSpan.className = "file-size";
+    if (i.type === "file") {
+      sizeSpan.textContent = formatBytes(i.data ? i.data.length : 0);
+    }
+    
+    d.appendChild(textSpan);
+    d.appendChild(sizeSpan);
+    
+    d.className = i.type==="folder"?"folder":"file";
+    d.onclick=()=>select(i);
+    tree.appendChild(d);
+  });
+}
+
+async function select(i){
+  currentFile=i;
+  if(i.type==="file"){
+    let d = await read(i.path);
+    editor.textContent=d.data||"";
+    updateStatus(`Selected: ${i.path}`);
+  } else {
+    editor.textContent="";
+    updateStatus(`Selected: ${i.path}`);
+  }
+  // when selecting from tree, make sure right drawer is visible
+  openRightDrawer();
+}
+
+function saveEditor(){
+  if(!currentFile||currentFile.type!=="file") return;
+  let d=editor.textContent;
+  tx("readwrite").put({path:currentFile.path,type:"file",data:d});
+  log("Saved: "+currentFile.path);
+  updateVFSStatus();
+  updateStatus("File saved");
+}
+
+function clearVFS(){
+  if(confirm("Are you sure you want to clear all data?")) {
+    indexedDB.deleteDatabase("ifa_vfs_db");
+    location.reload();
+  }
+}
+
+function refreshAll() {
+  refreshTree();
+  updateVFSStatus();
+  updateStatus("VFS refreshed");
+}
+
+// Auto-populate with sample data if empty
+async function checkAndPopulate() {
+  let fileCount = 0;
+  
+  await new Promise(resolve => {
+    tx().openCursor().onsuccess = e => {
+      const cursor = e.target.result;
+      if (cursor) {
+        if (cursor.value.type === 'file') {
+          fileCount++;
+        }
+        cursor.continue();
+      } else {
+        resolve();
+      }
+    };
+  });
+  
+  if (fileCount === 0) {
+    log("VFS is empty, adding sample data...");
+    await addSampleData();
+    updateStatus("Sample data added");
+  }
+}
+
+async function addSampleData() {
+  const sampleData = [
+    {
+      "name": "ifa_odu.json",
+      "content": JSON.stringify([
+        {
+          "odu_id": 1,
+          "odu_name": "Ogbe Ogbe",
+          "parent_odu_1": "Ogbe",
+          "parent_odu_2": "Ogbe",
+          "binary_code": "00000000",
+          "meaning": "Beginnings, openness, expansion, truth",
+          "signature_marks": [
+            "I I I I",
+            "I I I I"
+          ],
+          "proverbs": [
+            "The path is clear for him who walks in truth.",
+            "As dawn brings light, so Ogbe brings opportunity."
+          ],
+          "verses": [
+            "Ogbe Ogbe says: When hope is planted, it grows into greatness.",
+            "Let the journey begin with pure intentions and wisdom."
+          ]
+        },
+        {
+          "odu_id": 2,
+          "odu_name": "Ogbe Oyeku",
+          "parent_odu_1": "Ogbe",
+          "parent_odu_2": "Oyeku",
+          "binary_code": "00001111",
+          "meaning": "Transition, duality, new direction",
+          "signature_marks": [
+            "I I I I",
+            "II II II II"
+          ],
+          "proverbs": [
+            "Light and shadow dance together in the palm of destiny.",
+            "The bridge between worlds is both seen and unseen."
+          ],
+          "verses": [
+            "Ogbe Oyeku teaches: Balance the seen with the unseen, and all will be well.",
+            "He who knows both sides of the coin is truly wise."
+          ]
+        },
+        {
+          "odu_id": 3,
+          "odu_name": "Ogbe Iwori",
+          "parent_odu_1": "Ogbe",
+          "parent_odu_2": "Iwori",
+          "binary_code": "00010001",
+          "meaning": "Discovery, emergence of truth",
+          "signature_marks": [
+            "I I I I",
+            "I II I I"
+          ],
+          "proverbs": [
+            "Out of darkness, wisdom is born.",
+            "When the seed splits, the sprout finds light."
+          ],
+          "verses": [
+            "Ogbe Iwori speaks: In patience, the truth will reveal itself.",
+            "Let your search be guided by the ancestors' light."
+          ]
+        }
+      ], null, 2)
+    },
+    {
+      "name": "readme.txt",
+      "content": "Welcome to Ifá Odu 16 Quantum VFS\n\nThis is a virtual file system for storing and searching Ifá Odu information.\n\nFeatures:\n- File management\n- Content search\n- Mobile-friendly interface\n\nUpload your JSON files to get started."
+    }
+  ];
+  
+  const store = tx("readwrite");
+  for (const file of sampleData) {
+    store.put({
+      path: "/" + file.name,
+      type: "file",
+      data: file.content
+    });
+    log("Added sample file: " + file.name);
+  }
+  
+  refreshTree();
+  updateVFSStatus();
+}
+
+/******** DRAWER CONTROL ********/
+function syncOverlay() {
+  if (isMobile && (drawerOpen || rightDrawerOpen)) {
+    overlayEl.classList.add("show");
+  } else {
+    overlayEl.classList.remove("show");
+  }
+}
+
+function openLeftDrawer() {
+  drawerOpen = true;
+  drawerLeftEl.classList.add("open");
+  if (!isMobile) {
+    wrapperEl.classList.add("shift");
+  }
+  syncOverlay();
+}
+
+function closeLeftDrawer() {
+  drawerOpen = false;
+  drawerLeftEl.classList.remove("open");
+  if (!isMobile) {
+    wrapperEl.classList.remove("shift");
+  }
+  syncOverlay();
+}
+
+function toggleLeftDrawer() {
+  if (drawerOpen) {
+    closeLeftDrawer();
+  } else {
+    openLeftDrawer();
+  }
+}
+
+function openRightDrawer() {
+  rightDrawerOpen = true;
+  drawerRightEl.classList.add("open");
+  if (!isMobile) {
+    wrapperEl.classList.add("shift-right");
+  }
+  syncOverlay();
+}
+
+function closeRightDrawer() {
+  rightDrawerOpen = false;
+  drawerRightEl.classList.remove("open");
+  if (!isMobile) {
+    wrapperEl.classList.remove("shift-right");
+  }
+  syncOverlay();
+}
+
+hamburgerEl.onclick = () => {
+  toggleLeftDrawer();
+};
+
+// Close drawers when clicking overlay on mobile
+overlayEl.onclick = () => {
+  drawerOpen = false;
+  rightDrawerOpen = false;
+  drawerLeftEl.classList.remove("open");
+  drawerRightEl.classList.remove("open");
+  wrapperEl.classList.remove("shift");
+  wrapperEl.classList.remove("shift-right");
+  overlayEl.classList.remove("show");
+};
+
+// Check for window resize
+window.addEventListener('resize', () => {
+  isMobile = window.innerWidth <= 768;
+  if (!isMobile) {
+    syncOverlay();
+  } else {
+    wrapperEl.classList.remove("shift");
+    wrapperEl.classList.remove("shift-right");
+  }
+});
+
+/******** DEBUG FUNCTION ********/
+async function debugSearch() {
+  const query = document.getElementById('mcts-search').value || "Odu";
+  log(`Debug search for: "${query}"`);
+  
+  // Get all files from the database
+  const files = [];
+  await new Promise(resolve => {
+    tx().openCursor().onsuccess = e => {
+      const cursor = e.target.result;
+      if (cursor) {
+        if (cursor.value.type === 'file') {
+          files.push(cursor.value);
+        }
+        cursor.continue();
+      } else {
+        resolve();
+      }
+    };
+  });
+  
+  log(`Found ${files.length} files in VFS`);
+  
+  // Debug each file
+  for (const file of files) {
+    log(`Debugging file: ${file.path}`);
+    log(`File size: ${file.data ? file.data.length : 0} bytes`);
+    
+    try {
+      const jsonData = JSON.parse(file.data);
+      log(`Successfully parsed JSON from ${file.path}`);
+      log(`JSON type: ${Array.isArray(jsonData) ? 'Array' : typeof jsonData}`);
+      if (Array.isArray(jsonData)) {
+        log(`Array length: ${jsonData.length}`);
+        if (jsonData.length > 0) {
+          log(`First item keys: ${Object.keys(jsonData[0]).join(', ')}`);
+        }
+      }
+    } catch (e) {
+      log(`Failed to parse JSON from ${file.path}: ${e.message}`);
+    }
+  }
+}
+
+/******** FIXED SEARCH IMPLEMENTATION ********/
+async function performSearch() {
+  const query = document.getElementById('mcts-search').value;
+  if (!query) {
+    log("Please enter a search query");
+    return;
+  }
+  
+  const caseSensitive = document.getElementById('case-sensitive').checked;
+  const wholeWord = document.getElementById('whole-word').checked;
+  
+  log(`Searching for: "${query}" (Case Sensitive: ${caseSensitive}, Whole Word: ${wholeWord})`);
+  updateStatus(`Searching for: "${query}"`);
+  
+  // Show loading indicator
+  const resultsContainer = document.getElementById('search-results');
+  resultsContainer.innerHTML = '<div class="loading"></div> Searching...';
+  
+  // Get all file paths from the database
+  const filePaths = [];
+  await new Promise(resolve => {
+    tx().openCursor().onsuccess = e => {
+      const cursor = e.target.result;
+      if (cursor) {
+        if (cursor.value.type === 'file') {
+          filePaths.push(cursor.value.path);
+        }
+        cursor.continue();
+      } else {
+        resolve();
+      }
+    };
+  });
+  
+  if (filePaths.length === 0) {
+    log("No files found for search");
+    resultsContainer.innerHTML = '<div style="color: var(--muted);">No files found in VFS.</div>';
+    return;
+  }
+  
+  log(`Found ${filePaths.length} files to search through`);
+  
+  // Retrieve each file's content and search it
+  const results = [];
+  
+  for (const filePath of filePaths) {
+    try {
+      // Get the full file object with content
+      const file = await new Promise(resolve => {
+        tx().get(filePath).onsuccess = e => resolve(e.target.result);
+      });
+      
+      if (!file || !file.data) {
+        log(`No content found for file: ${filePath}`);
+        continue;
+      }
+      
+      const content = file.data;
+      const searchResults = searchInContent(content, query, filePath, caseSensitive, wholeWord);
+      if (searchResults.length > 0) {
+        results.push({
+          filePath: filePath,
+          matches: searchResults
+        });
+      }
+    } catch (error) {
+      log(`Error processing file ${filePath}: ${error.message}`);
+    }
+  }
+  
+  // Display results
+  displaySearchResults(results, query);
+  log(`Search completed. Found ${results.length} files with matches.`);
+  updateStatus(`Found ${results.length} files with matches`);
+}
+
+function searchInContent(content, query, filePath, caseSensitive, wholeWord) {
+  const results = [];
+  
+  // Search in file name itself
+  if (matchesText(filePath, query, caseSensitive, wholeWord)) {
+    results.push({
+      type: 'file-name',
+      fileMatch: true,
+      text: filePath
+    });
+  }
+  
+  // Try to parse as JSON first
+  try {
+    const jsonData = JSON.parse(content);
+    
+    // Handle array of objects (like Ifá Odu data)
+    if (Array.isArray(jsonData)) {
+      jsonData.forEach((item, index) => {
+        if (typeof item === 'object' && item !== null) {
+          const itemMatches = searchInObject(item, query, [], caseSensitive, wholeWord);
+          if (itemMatches.length > 0) {
+            results.push({
+              type: 'array-item',
+              index: index,
+              matches: itemMatches,
+              item: item
+            });
+          }
+        }
+      });
+    } else if (typeof jsonData === 'object' && jsonData !== null) {
+      const objectMatches = searchInObject(jsonData, query, [], caseSensitive, wholeWord);
+      if (objectMatches.length > 0) {
+        results.push({
+          type: 'object',
+          matches: objectMatches,
+          object: jsonData
+        });
+      }
+    }
+  } catch (e) {
+    // If not JSON, search as plain text
+    const lines = content.split('\n');
+    lines.forEach((line, index) => {
+      if (matchesText(line, query, caseSensitive, wholeWord)) {
+        results.push({
+          type: 'text',
+          line: index + 1,
+          text: line.trim(),
+          context: lines.slice(Math.max(0, index - 1), index + 2).join('\n')
+        });
+      }
+    });
+  }
+  
+  return results;
+}
+
+function searchInObject(obj, query, path, caseSensitive, wholeWord) {
+  const results = [];
+  
+  for (const key in obj) {
+    const value = obj[key];
+    const currentPath = [...path, key];
+    
+    // Search in key name itself
+    if (matchesText(key, query, caseSensitive, wholeWord)) {
+      results.push({
+        path: currentPath.join('.'),
+        value: String(value),
+        key: key,
+        matchIn: 'key'
+      });
+    }
+    
+    if (typeof value === 'string' || typeof value === 'number' || typeof value === 'boolean') {
+      const stringValue = String(value);
+      if (matchesText(stringValue, query, caseSensitive, wholeWord)) {
+        results.push({
+          path: currentPath.join('.'),
+          value: stringValue,
+          key: key,
+          matchIn: 'value'
+        });
+      }
+    } else if (Array.isArray(value)) {
+      value.forEach((item, index) => {
+        if (typeof item === 'string' || typeof item === 'number' || typeof item === 'boolean') {
+          const stringValue = String(item);
+          if (matchesText(stringValue, query, caseSensitive, wholeWord)) {
+            results.push({
+              path: [...currentPath, `[${index}]`].join('.'),
+              value: stringValue,
+              key: key,
+              arrayIndex: index,
+              matchIn: 'array-value'
+            });
+          }
+        } else if (typeof item === 'object' && item !== null) {
+          const nestedResults = searchInObject(item, query, [...currentPath, `[${index}]`], caseSensitive, wholeWord);
+          results.push(...nestedResults);
+        }
+      });
+    } else if (typeof value === 'object' && value !== null) {
+      const nestedResults = searchInObject(value, query, currentPath, caseSensitive, wholeWord);
+      results.push(...nestedResults);
+    }
+  }
+  
+  return results;
+}
+
+function matchesText(text, query, caseSensitive, wholeWord) {
+  const searchText = caseSensitive ? text : text.toLowerCase();
+  const searchQuery = caseSensitive ? query : query.toLowerCase();
+  
+  if (wholeWord) {
+    const regex = new RegExp(`\\b${escapeRegExp(searchQuery)}\\b`, caseSensitive ? '' : 'i');
+    return regex.test(text);
+  } else {
+    return searchText.includes(searchQuery);
+  }
+}
+
+function escapeRegExp(string) {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function displaySearchResults(results, query) {
+  const resultsContainer = document.getElementById('search-results');
+  resultsContainer.innerHTML = '';
+  
+  if (results.length === 0) {
+    resultsContainer.innerHTML = '<div style="color: var(--muted);">No results found.</div>';
+    return;
+  }
+  
+  for (const result of results) {
+    const resultItem = document.createElement('div');
+    resultItem.className = 'search-result-item';
+    
+    const fileElement = document.createElement('div');
+    fileElement.className = 'search-result-file';
+    fileElement.textContent = result.filePath;
+    
+    resultItem.appendChild(fileElement);
+    
+    // Special handling for file name matches
+    if (result.type === 'file-name' && result.fileMatch) {
+      const matchElement = document.createElement('div');
+      matchElement.className = 'search-result-content';
+      
+      let highlightedText = result.text;
+      const caseSensitive = document.getElementById('case-sensitive').checked;
+      const wholeWord = document.getElementById('whole-word').checked;
+      
+      let regexPattern;
+      if (wholeWord) {
+        regexPattern = `\\b(${escapeRegExp(query)})\\b`;
+      } else {
+        regexPattern = `(${escapeRegExp(query)})`;
+      }
+      
+      const regex = new RegExp(regexPattern, caseSensitive ? 'g' : 'gi');
+      highlightedText = highlightedText.replace(regex, '<span class="search-highlight">$1</span>');
+      
+      matchElement.innerHTML = `<strong>File Name Match:</strong> ${highlightedText}`;
+      resultItem.appendChild(matchElement);
+    }
+    // Special handling placeholder for Ifá Odu data (kept as in original)
+    else if (result.matches && result.matches.length > 0 && result.matches[0].item && result.matches[0].item.odu_name) {
+      for (const match of result.matches) {
+        if (match.item) {
+          const oduElement = document.createElement('div');
+          oduElement.className = 'odu-result';
+          
+          const oduTitle = document.createElement('div');
+          oduTitle.className = 'odu-title';
+          oduTitle.textContent = match.item.odu_name || `Odu ${match.item.odu_id || 'Unknown'}`;
+          oduElement.appendChild(oduTitle);
+          
+          for (const fieldMatch of match.matches) {
+            const fieldElement = document.createElement('div');
+            fieldElement.className = 'odu-field';
+            
+            const fieldLabel = document.createElement('div');
+            fieldLabel.className = 'odu-field-label';
+            
+            if (fieldMatch.matchIn === 'key') {
+              fieldLabel.textContent = `Key Match: ${fieldMatch.path}`;
+            } else {
+              fieldLabel.textContent = fieldMatch.path;
+            }
+            
+            const fieldValue = document.createElement('div');
+            
+            let highlightedText = fieldMatch.value;
+            const caseSensitive = document.getElementById('case-sensitive').checked;
+            const wholeWord = document.getElementById('whole-word').checked;
+            
+            let regexPattern;
+            if (wholeWord) {
+              regexPattern = `\\b(${escapeRegExp(query)})\\b`;
+            } else {
+              regexPattern = `(${escapeRegExp(query)})`;
+            }
+            
+            const regex = new RegExp(regexPattern, caseSensitive ? 'g' : 'gi');
+            highlightedText = highlightedText.replace(regex, '<span class="search-highlight">$1</span>');
+            
+            fieldValue.innerHTML = highlightedText;
+            
+            fieldElement.appendChild(fieldLabel);
+            fieldElement.appendChild(fieldValue);
+            oduElement.appendChild(fieldElement);
+          }
+          
+          resultItem.appendChild(oduElement);
+        }
+      }
+    } else {
+      const matchesToShow = Math.min(3, result.matches.length);
+      for (let i = 0; i < matchesToShow; i++) {
+        const match = result.matches[i];
+        const matchElement = document.createElement('div');
+        matchElement.className = 'search-result-content';
+        
+        let highlightedText = match.text || match.value || '';
+        const caseSensitive = document.getElementById('case-sensitive').checked;
+        const wholeWord = document.getElementById('whole-word').checked;
+        
+        let regexPattern;
+        if (wholeWord) {
+          regexPattern = `\\b(${escapeRegExp(query)})\\b`;
+        } else {
+          regexPattern = `(${escapeRegExp(query)})`;
+        }
+        
+        const regex = new RegExp(regexPattern, caseSensitive ? 'g' : 'gi');
+        highlightedText = highlightedText.replace(regex, '<span class="search-highlight">$1</span>');
+        
+        if (match.type === 'text') {
+          matchElement.innerHTML = `Line ${match.line}: ${highlightedText}`;
+        } else if (match.path) {
+          if (match.matchIn === 'key') {
+            matchElement.innerHTML = `<strong>Key Match:</strong> ${match.path} → ${highlightedText}`;
+          } else {
+            matchElement.innerHTML = `<strong>${match.path}:</strong> ${highlightedText}`;
+          }
+        } else {
+          matchElement.innerHTML = highlightedText;
+        }
+        
+        resultItem.appendChild(matchElement);
+      }
+      
+      if (result.matches.length > 3) {
+        const moreElement = document.createElement('div');
+        moreElement.className = 'search-result-content';
+        moreElement.style.color = 'var(--muted)';
+        moreElement.textContent = `... and ${result.matches.length - 3} more matches`;
+        resultItem.appendChild(moreElement);
+      }
+    }
+    
+    // Click handler: open the right drawer and load the file
+    resultItem.onclick = () => {
+      // open "destination" drawer
+      openRightDrawer();
+      // load file into editor
+      tx().get(result.filePath).onsuccess = e => {
+        const file = e.target.result;
+        if (file) {
+          select(file);
+          // scroll editor into view inside right drawer
+          setTimeout(() => {
+            if (editorEl && editorEl.scrollIntoView) {
+              editorEl.scrollIntoView({behavior:'smooth', block:'start'});
+            }
+          }, 50);
+        }
+      };
+    };
+    
+    resultsContainer.appendChild(resultItem);
+  }
+}
+
+/******** PLUGIN COMMS ********/
+window.addEventListener("message", e=>{
+  if(e.data.type==="PLUGIN_INIT"){
+    window.pluginAPI=e.data.api;
+    pluginAPI.registerService("ifa.vfs",{id:"ifa-vfs"});
+  }
+});
+
+// Initialize mobile detection
+window.addEventListener('load', () => {
+  isMobile = window.innerWidth <= 768;
+});
+</script>
+
+</body>
+</html>
